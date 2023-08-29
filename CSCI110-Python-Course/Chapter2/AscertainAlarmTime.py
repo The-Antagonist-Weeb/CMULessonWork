@@ -98,6 +98,9 @@
 #Starting the chapter now, and below will be the code re-written with optimizations from what I learned.
 #Uncomment the top if you want to see how it works there! I'm not sure how much it'll change from below.
 #And there was one or two things that confused me commented out up there as well.
+#
+#Spoiler: It changed a lot! The below script is much better. Way better. In fact there were likely some
+#flaws with the upper script, and I don't plan to go back to that one to improve it, haha.
 #-------------------------------------------------------------------------------------------------------
 
 import time
