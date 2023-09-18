@@ -177,11 +177,11 @@ finalDateTime = str(today) + " " + str(finalHour) + ":" + currentMinutes + final
 
 print("The date and time that your alarm will go off is: " + finalDateTime)
 time.sleep(3)
-#-------------------------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------------------------------------------
 # Okay, after the above two scripts, I watched the video for the week...
 # Sorry for overthinking so much. I'll probably simplify future scripts, but I am proud of these.
 # And I was honestly kinda bored, and this was super fun.
 # Anyway, I would really appreciate it if you have recommendations on any of this code for how I can improve!
 # I've been working in the industry for awhile, but I've never really had a peer able to teach me much due to circumstance.
 # To be honest, I just got excited. Anyway, thanks for reviewing my script!!
-#-------------------------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------------------------------------------
