@@ -72,6 +72,36 @@ def drawSquareOfSquares(data):
     alex.pendown()
     alex.color("black")
 
+def createChart(data):
+    chartValuesRaw = chartValues.get(1.0, "end-1c")
+    chartValuesSplit = chartValuesRaw.split(",")
+
+    for i in chartValuesSplit:
+        if int(i) >= 200: #I wanted to add a input for choosing the color the bar fills here, but it would take more time than I want to spend on this one.
+            alex.color("blue", "red")
+            alex.begin_fill()
+        elif int(i) >= 100:
+            alex.color("blue", "yellow")
+            alex.begin_fill()
+        else:
+            alex.color("blue", "green")
+            alex.begin_fill()
+        alex.left(90)
+        alex.forward(int(i))
+        alex.write("  "+ str(int(i)))
+        alex.right(90)
+        alex.forward(40)
+        alex.right(90)
+        alex.forward(int(i))
+        alex.left(90)
+        alex.end_fill()
+        alex.penup()
+        alex.forward(10)
+        alex.pendown()
+    for x in chartValuesSplit:
+        alex.backward(50)
+    alex.color("black")
+
 
 def resetCanvas(data):
     alex.reset()
@@ -91,11 +121,16 @@ boxesButton = Button(text="Draw the Matryoshka Boxes!")
 # boxOfBoxesSize = Text(height = 1, width = 10)
 numOfBoxesLabel = Label(text="Number of Boxes:")
 boxesNum = Text(height = 1, width = 10)
+chartButton = Button(text="Draw a chart with custom values!")
+chartValuesLabel = Label(text="""Values for the chart (separated by ","):""")
+chartValues = Text(height = 1, width = 10)
+chartColorLabels = Label(text="Values >= 200 will be red\nValues >= 100 && < 200 will be yellow\nValues < 100 will be green")
 resetButton = Button(text="Reset the canvas. :(")
 
 starButton.bind("<Button-1>", star)
 turtleClockButton.bind("<Button-1>", turtleClock)
 boxesButton.bind("<Button-1>", drawSquareOfSquares)
+chartButton.bind("<Button-1>", createChart)
 resetButton.bind("<Button-1>", resetCanvas)
 
 starButton.pack()
@@ -105,6 +140,10 @@ boxesButton.pack()
 # boxOfBoxesSize.pack()
 numOfBoxesLabel.pack()
 boxesNum.pack()
+chartButton.pack()
+chartValuesLabel.pack()
+chartValues.pack()
+chartColorLabels.pack()
 resetButton.pack()
 screen.listen()
 

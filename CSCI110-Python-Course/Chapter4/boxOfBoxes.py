@@ -1,3 +1,10 @@
+#-------------------------------------------------------------------
+# Written by Carter Stickler, September 2023.
+#
+# Anyone may freely copy or modify this program. 
+#   Assuming you can find it in my hidden github. 
+#   Or if you're the instructor, and I wound up handing this to you.
+#-------------------------------------------------------------------
 import turtle
 
 def matryoshkaBoxes(turtle):
