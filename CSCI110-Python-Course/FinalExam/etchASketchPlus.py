@@ -75,6 +75,9 @@ def changeColor(): #Now the fun buttons. This is what makes the program an Etch-
 def changeShape(): #Change the pen shape!
     alex.shape(turtleClick.get())
 
+def changePenSize():
+    alex.pensize(penSizeClick.get())
+
 def turtlePenChange(): #Change the pen state!
     if penState.get() == "Down":
         alex.penup()
@@ -85,8 +88,8 @@ def turtlePenChange(): #Change the pen state!
         penButton.config(text="Pen Up!")
         penState.set( "Down" )
 
-def changePenSize():
-    alex.pensize(penSizeClick.get())
+def turtleStamp():
+    alex.stamp()
 
 # def changeSpeed(): #Really tried to get this one working, but since the other buttons work as repeating functions, while the speed DOES change, you can't notice any difference... I tried making the .forward function numbers bigger as well, but nothing really changed there either.
 #     alex.speed(speedClick.get())
@@ -117,6 +120,7 @@ colorButton = Button(root, text="Change Color!", command=changeColor)
 shapeButton = Button(root, text="Change Shape!", command=changeShape)
 sizeButton = Button(root, text="Change Size!", command=changePenSize)
 penButton = Button(root, text="Pen Up!", command=turtlePenChange)
+stampButton = Button(root, text="Stamp!", command=turtleStamp).pack()
 # speedButton = Button(root, text="Change Speed!", command=changeSpeed)
 resetButton = Button(root, text="Reset the canvas. :(", command=resetCanvas)
 
