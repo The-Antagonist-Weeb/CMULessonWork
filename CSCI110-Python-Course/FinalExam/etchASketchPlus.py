@@ -54,7 +54,7 @@ sizeOptions = [
 ]
 
 def up(data): #Basic controls!
-    canvas.unbind("<Up>")
+    canvas.unbind("<Up>") #These unbinds are my fix for the maximum recursion depth. Overall it stablizes the program, and doesn't affect the user experience negatively at all. Simply disabling the keypresses until the function finishes. It turns out that I was having that issue since it was calling the function while in the middle of the function, so I disable all key presses when one is pressed, and this stabilizes the application, and overall experience as some of the one off weird lines stopped happening. 
     canvas.unbind("<Down>")
     canvas.unbind("<Left>")
     canvas.unbind("<Right>")
@@ -64,7 +64,6 @@ def up(data): #Basic controls!
     canvas.bind("<Down>", down)
     canvas.bind("<Left>", left)
     canvas.bind("<Right>", right)
-
 def down(data):
     canvas.unbind("<Up>")
     canvas.unbind("<Down>")
