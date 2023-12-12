@@ -1,0 +1,13754 @@
+Word              Count 
+=======================
+﻿The: 1
+Project: 60
+Gutenberg: 17
+eBook: 7
+of: 268
+Alices: 7
+Adventures: 2
+in: 195
+Wonderland
+: 1
+: 847
+: 847
+: 847
+
+This: 1
+ebook: 2
+is: 54
+for: 58
+the: 653
+use: 12
+of: 268
+anyone: 5
+anywhere: 2
+in: 195
+the: 653
+United: 11
+States: 9
+and
+most: 1
+other: 26
+parts: 2
+of: 268
+the: 653
+world: 6
+at: 77
+no: 28
+cost: 3
+and: 337
+with: 99
+almost: 3
+no: 28
+restrictions
+whatsoever: 1
+You: 14
+may: 16
+copy: 12
+it: 139
+give: 6
+it: 139
+away: 13
+or: 89
+reuse: 2
+it: 139
+under: 12
+the: 653
+terms
+of: 1
+the: 653
+Project: 60
+Gutenberg: 17
+License: 8
+included: 3
+with: 99
+this: 69
+ebook: 2
+or: 89
+online
+at: 1
+wwwgutenbergorg: 2
+If: 17
+you: 128
+are: 30
+not: 56
+located: 6
+in: 195
+the: 653
+United: 11
+States
+you: 1
+will: 10
+have: 20
+to: 289
+check: 3
+the: 653
+laws: 8
+of: 268
+the: 653
+country: 3
+where: 5
+you: 128
+are: 30
+located
+before: 1
+using: 6
+this: 69
+eBook
+
+Title: 1
+Alices: 7
+Adventures: 2
+in: 195
+Wonderland
+
+
+Author: 1
+Lewis: 1
+Carroll
+
+Illustrator: 1
+Gordon: 1
+Robinson
+
+Release: 1
+date: 3
+August: 1
+12: 1
+2006: 1
+eBook: 7
+19033
+
+Language: 1
+English
+
+Original: 1
+publication: 1
+Saml: 1
+Gabriel: 1
+Sons: 1
+: 847
+Company: 1
+New: 1
+York
+
+Credits: 1
+Produced: 1
+by: 45
+Jason: 2
+Isbell: 2
+Irma: 2
+Spehar: 2
+and: 337
+the: 653
+Online
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Distributed: 1
+Proofreading: 2
+Team: 2
+at: 77
+httpwwwpgdpnet
+
+
+: 1
+START: 1
+OF: 12
+THE: 8
+PROJECT: 4
+GUTENBERG: 3
+EBOOK: 2
+ALICES: 3
+ADVENTURES: 4
+IN: 6
+WONDERLAND: 2
+
+
+
+
+Produced: 1
+by: 45
+Jason: 2
+Isbell: 2
+Irma: 2
+Spehar: 2
+and: 337
+the: 653
+Online
+Distributed: 1
+Proofreading: 2
+Team: 2
+at: 77
+httpwwwpgdpnet
+
+
+
+
+
+
+
+
+
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Illustration: 1
+Alice: 113
+in: 195
+the: 653
+Room: 1
+of: 268
+the: 653
+Duchess
+
+
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+THE: 8
+STORYLAND: 1
+SERIES
+
+
+
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+ALICES: 3
+ADVENTURES: 4
+IN: 6
+WONDERLAND
+
+
+
+
+
+
+
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+SAML: 2
+GABRIEL: 2
+SONS: 2
+: 847
+COMPANY
+
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+NEW: 2
+YORK
+
+
+
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Copyright: 2
+1916
+
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+by: 45
+SAML: 2
+GABRIEL: 2
+SONS: 2
+: 847
+COMPANY
+
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+NEW: 2
+YORK
+
+
+
+
+ALICES: 1
+ADVENTURES: 4
+IN: 6
+WONDERLAND
+
+Illustration
+
+
+
+
+IDOWN: 1
+THE: 8
+RABBITHOLE
+
+
+Alice: 1
+was: 143
+beginning: 3
+to: 289
+get: 18
+very: 34
+tired: 3
+of: 268
+sitting: 4
+by: 45
+her: 87
+sister: 4
+on: 66
+the
+bank: 1
+and: 337
+of: 268
+having: 3
+nothing: 7
+to: 289
+do: 38
+Once: 1
+or: 89
+twice: 2
+she: 177
+had: 56
+peeped: 3
+into: 36
+the
+book: 1
+her: 87
+sister: 4
+was: 143
+reading: 3
+but: 33
+it: 139
+had: 56
+no: 28
+pictures: 2
+or: 89
+conversations: 1
+in
+it: 1
+and: 337
+what: 22
+is: 54
+the: 653
+use: 12
+of: 268
+book: 3
+thought: 18
+Alice: 113
+without: 12
+pictures: 2
+or
+conversations
+
+So: 1
+she: 177
+was: 143
+considering: 1
+in: 195
+her: 87
+own: 2
+mind: 6
+as: 81
+well: 15
+as: 81
+she: 177
+could: 24
+for: 58
+the
+day: 1
+made: 11
+her: 87
+feel: 2
+very: 34
+sleepy: 2
+and: 337
+stupid: 1
+whether: 4
+the: 653
+pleasure: 1
+of
+making: 1
+daisychain: 1
+would: 8
+be: 44
+worth: 1
+the: 653
+trouble: 2
+of: 268
+getting: 7
+up: 36
+and
+picking: 1
+the: 653
+daisies: 1
+when: 28
+suddenly: 7
+White: 13
+Rabbit: 25
+with: 99
+pink: 1
+eyes: 9
+ran
+close: 1
+by: 45
+her
+
+There: 1
+was: 143
+nothing: 7
+so: 27
+very: 34
+remarkable: 1
+in: 195
+that: 89
+nor: 2
+did: 12
+Alice: 113
+think: 14
+it: 139
+so
+very: 1
+much: 11
+out: 50
+of: 268
+the: 653
+way: 18
+to: 289
+hear: 5
+the: 653
+Rabbit: 25
+say: 12
+to: 289
+itself: 3
+Oh: 7
+dear: 10
+Oh
+dear: 1
+shall: 5
+be: 44
+too: 8
+late: 3
+But: 5
+when: 28
+the: 653
+Rabbit: 25
+actually: 1
+took: 12
+watch
+out: 1
+of: 268
+its: 27
+waistcoatpocket: 2
+and: 337
+looked: 16
+at: 77
+it: 139
+and: 337
+then: 17
+hurried: 5
+on: 66
+Alice
+started: 1
+to: 289
+her: 87
+feet: 12
+for: 58
+it: 139
+flashed: 1
+across: 5
+her: 87
+mind: 6
+that: 89
+she: 177
+had: 56
+never
+before: 1
+seen: 2
+rabbit: 1
+with: 99
+either: 6
+waistcoatpocket: 2
+or: 89
+watch: 1
+to: 289
+take
+out: 1
+of: 268
+it: 139
+and: 337
+burning: 1
+with: 99
+curiosity: 1
+she: 177
+ran: 9
+across: 5
+the: 653
+field: 1
+after
+it: 1
+and: 337
+was: 143
+just: 16
+in: 195
+time: 18
+to: 289
+see: 18
+it: 139
+pop: 1
+down: 45
+large: 18
+rabbithole: 2
+under
+the: 1
+hedge: 2
+In: 4
+another: 8
+moment: 10
+down: 45
+went: 21
+Alice: 113
+after: 8
+it
+
+Illustration
+
+The: 1
+rabbithole: 2
+went: 21
+straight: 1
+on: 66
+like: 31
+tunnel: 1
+for: 58
+some: 17
+way: 18
+and: 337
+then
+dipped: 1
+suddenly: 7
+down: 45
+so: 27
+suddenly: 7
+that: 89
+Alice: 113
+had: 56
+not: 56
+moment: 10
+to: 289
+think
+about: 1
+stopping: 1
+herself: 24
+before: 11
+she: 177
+found: 19
+herself: 24
+falling: 1
+down: 45
+what: 22
+seemed
+to: 2
+be: 44
+very: 34
+deep: 2
+well
+
+Either: 1
+the: 653
+well: 15
+was: 143
+very: 34
+deep: 2
+or: 89
+she: 177
+fell: 5
+very: 34
+slowly: 4
+for: 58
+she: 177
+had
+plenty: 1
+of: 268
+time: 18
+as: 81
+she: 177
+went: 21
+down: 45
+to: 289
+look: 3
+about: 35
+her: 87
+First: 4
+she: 177
+tried: 6
+to
+make: 1
+out: 50
+what: 22
+she: 177
+was: 143
+coming: 3
+to: 289
+but: 33
+it: 139
+was: 143
+too: 8
+dark: 3
+to: 289
+see: 18
+anything
+then: 1
+she: 177
+looked: 16
+at: 77
+the: 653
+sides: 2
+of: 268
+the: 653
+well: 15
+and: 337
+noticed: 6
+that: 89
+they: 27
+were
+filled: 1
+with: 99
+cupboards: 2
+and: 337
+bookshelves: 1
+here: 13
+and: 337
+there: 14
+she: 177
+saw: 5
+maps: 1
+and
+pictures: 1
+hung: 1
+upon: 15
+pegs: 1
+She: 27
+took: 12
+down: 45
+jar: 2
+from: 25
+one: 27
+of: 268
+the: 653
+shelves: 1
+as
+she: 3
+passed: 1
+It: 10
+was: 143
+labeled: 1
+ORANGE: 1
+MARMALADE: 1
+but: 33
+to: 289
+her: 87
+great
+disappointment: 1
+it: 139
+was: 143
+empty: 1
+she: 177
+did: 12
+not: 56
+like: 31
+to: 289
+drop: 1
+the: 653
+jar: 2
+so
+managed: 1
+to: 289
+put: 9
+it: 139
+into: 36
+one: 27
+of: 268
+the: 653
+cupboards: 2
+as: 81
+she: 177
+fell: 5
+past: 1
+it
+
+Down: 1
+down: 45
+down: 45
+Would: 2
+the: 653
+fall: 4
+never: 8
+come: 7
+to: 289
+an: 21
+end: 5
+There: 12
+was: 143
+nothing
+else: 1
+to: 289
+do: 38
+so: 27
+Alice: 113
+soon: 12
+began: 12
+talking: 5
+to: 289
+herself: 24
+Dinahll: 1
+miss: 1
+me
+very: 1
+much: 11
+tonight: 1
+should: 11
+think: 14
+Dinah: 5
+was: 143
+the: 653
+cat: 5
+hope
+theyll: 1
+remember: 3
+her: 87
+saucer: 1
+of: 268
+milk: 1
+at: 77
+teatime: 1
+Dinah: 5
+my: 16
+dear: 10
+wish
+you: 1
+were: 28
+down: 45
+here: 13
+with: 99
+me: 24
+Alice: 113
+felt: 6
+that: 89
+she: 177
+was: 143
+dozing: 1
+off: 22
+when
+suddenly: 1
+thump: 2
+thump: 2
+down: 45
+she: 177
+came: 23
+upon: 15
+heap: 1
+of: 268
+sticks: 1
+and: 337
+dry
+leaves: 1
+and: 337
+the: 653
+fall: 4
+was: 143
+over
+
+Alice: 1
+was: 143
+not: 56
+bit: 7
+hurt: 3
+and: 337
+she: 177
+jumped: 2
+up: 36
+in: 195
+moment: 10
+She: 27
+looked: 16
+up
+but: 1
+it: 139
+was: 143
+all: 62
+dark: 3
+overhead: 1
+before: 11
+her: 87
+was: 143
+another: 8
+long: 12
+passage: 3
+and
+the: 1
+White: 13
+Rabbit: 25
+was: 143
+still: 3
+in: 195
+sight: 2
+hurrying: 1
+down: 45
+it: 139
+There: 12
+was: 143
+not: 56
+a
+moment: 2
+to: 289
+be: 44
+lost: 2
+Away: 1
+went: 21
+Alice: 113
+like: 31
+the: 653
+wind: 1
+and: 337
+was: 143
+just: 16
+in: 195
+time: 18
+to
+hear: 1
+it: 139
+say: 12
+as: 81
+it: 139
+turned: 7
+corner: 3
+Oh: 7
+my: 16
+ears: 2
+and: 337
+whiskers: 2
+how: 12
+late
+its: 1
+getting: 7
+She: 27
+was: 143
+close: 2
+behind: 3
+it: 139
+when: 28
+she: 177
+turned: 7
+the: 653
+corner: 3
+but
+the: 1
+Rabbit: 25
+was: 143
+no: 28
+longer: 1
+to: 289
+be: 44
+seen
+
+She: 1
+found: 19
+herself: 24
+in: 195
+long: 12
+low: 9
+hall: 7
+which: 25
+was: 143
+lit: 1
+up: 36
+by: 45
+row: 1
+of
+lamps: 1
+hanging: 1
+from: 25
+the: 653
+roof: 3
+There: 12
+were: 28
+doors: 2
+all: 62
+round: 13
+the: 653
+hall: 7
+but
+they: 1
+were: 28
+all: 62
+locked: 1
+and: 337
+when: 28
+Alice: 113
+had: 56
+been: 10
+all: 62
+the: 653
+way: 18
+down: 45
+one: 27
+side
+and: 1
+up: 36
+the: 653
+other: 26
+trying: 4
+every: 2
+door: 18
+she: 177
+walked: 6
+sadly: 1
+down: 45
+the: 653
+middle
+wondering: 1
+how: 12
+she: 177
+was: 143
+ever: 6
+to: 289
+get: 18
+out: 50
+again
+
+Suddenly: 1
+she: 177
+came: 23
+upon: 15
+little: 46
+table: 11
+all: 62
+made: 11
+of: 268
+solid: 1
+glass: 6
+There
+was: 1
+nothing: 7
+on: 66
+it: 139
+but: 33
+tiny: 2
+golden: 6
+key: 8
+and: 337
+Alices: 7
+first: 12
+idea: 7
+was: 143
+that
+this: 1
+might: 7
+belong: 1
+to: 289
+one: 27
+of: 268
+the: 653
+doors: 2
+of: 268
+the: 653
+hall: 7
+but: 33
+alas: 3
+either: 6
+the
+locks: 1
+were: 28
+too: 8
+large: 18
+or: 89
+the: 653
+key: 8
+was: 143
+too: 8
+small: 9
+but: 33
+at: 77
+any: 41
+rate: 6
+it
+would: 2
+not: 56
+open: 4
+any: 41
+of: 268
+them: 25
+However: 5
+on: 66
+the: 653
+second: 2
+time: 18
+round: 13
+she: 177
+came
+upon: 1
+low: 9
+curtain: 1
+she: 177
+had: 56
+not: 56
+noticed: 6
+before: 11
+and: 337
+behind: 3
+it: 139
+was: 143
+a
+little: 5
+door: 18
+about: 35
+fifteen: 1
+inches: 5
+high: 10
+She: 27
+tried: 6
+the: 653
+little: 46
+golden: 6
+key
+in: 1
+the: 653
+lock: 1
+and: 337
+to: 289
+her: 87
+great: 15
+delight: 1
+it: 139
+fitted
+
+Illustration
+
+Alice: 1
+opened: 6
+the: 653
+door: 18
+and: 337
+found: 19
+that: 89
+it: 139
+led: 3
+into: 36
+small: 9
+passage: 3
+not
+much: 1
+larger: 4
+than: 9
+rathole: 1
+she: 177
+knelt: 1
+down: 45
+and: 337
+looked: 16
+along: 4
+the: 653
+passage
+into: 1
+the: 653
+loveliest: 1
+garden: 12
+you: 128
+ever: 6
+saw: 5
+How: 3
+she: 177
+longed: 1
+to: 289
+get: 18
+out: 50
+of
+that: 2
+dark: 3
+hall: 7
+and: 337
+wander: 1
+about: 35
+among: 7
+those: 6
+beds: 1
+of: 268
+bright: 4
+flowers: 2
+and
+those: 1
+cool: 1
+fountains: 1
+but: 33
+she: 177
+could: 24
+not: 56
+even: 3
+get: 18
+her: 87
+head: 12
+through: 8
+the
+doorway: 1
+Oh: 7
+said: 137
+Alice: 113
+how: 12
+wish: 8
+could: 24
+shut: 3
+up: 36
+like: 31
+telescope
+I: 1
+think: 14
+could: 24
+if: 27
+only: 14
+knew: 2
+how: 12
+to: 289
+begin
+
+Alice: 1
+went: 21
+back: 13
+to: 289
+the: 653
+table: 11
+half: 9
+hoping: 1
+she: 177
+might: 7
+find: 12
+another: 8
+key: 8
+on
+it: 1
+or: 89
+at: 77
+any: 41
+rate: 6
+book: 3
+of: 268
+rules: 3
+for: 58
+shutting: 2
+people: 7
+up: 36
+like
+telescopes: 1
+This: 6
+time: 18
+she: 177
+found: 19
+little: 46
+bottle: 5
+on: 66
+it: 139
+which: 25
+certainly
+was: 1
+not: 56
+here: 13
+before: 11
+said: 137
+Alice: 113
+and: 337
+tied: 1
+round: 13
+the: 653
+neck: 5
+of: 268
+the
+bottle: 1
+was: 143
+paper: 3
+label: 1
+with: 99
+the: 653
+words: 6
+DRINK: 1
+ME: 1
+beautifully: 2
+printed
+on: 1
+it: 139
+in: 195
+large: 18
+letters
+
+No: 1
+Ill: 9
+look: 3
+first: 12
+she: 177
+said: 137
+and: 337
+see: 18
+whether: 4
+its: 27
+marked: 5
+poison
+or: 1
+not: 56
+for: 58
+she: 177
+had: 56
+never: 8
+forgotten: 2
+that: 89
+if: 27
+you: 128
+drink: 2
+from: 25
+bottle
+marked: 1
+poison: 2
+it: 139
+is: 54
+almost: 3
+certain: 4
+to: 289
+disagree: 1
+with: 99
+you: 128
+sooner: 1
+or
+later: 1
+However: 5
+this: 69
+bottle: 5
+was: 143
+not: 56
+marked: 5
+poison: 2
+so: 27
+Alice: 113
+ventured
+to: 1
+taste: 1
+it: 139
+and: 337
+finding: 2
+it: 139
+very: 34
+nice: 1
+it: 139
+had: 56
+sort: 4
+of: 268
+mixed: 1
+flavor: 1
+of
+cherrytart: 1
+custard: 1
+pineapple: 1
+roast: 1
+turkey: 1
+toffy: 1
+and: 337
+hot: 2
+buttered
+toast: 1
+she: 177
+very: 34
+soon: 12
+finished: 3
+it: 139
+off
+
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+
+
+What: 1
+curious: 6
+feeling: 1
+said: 137
+Alice: 113
+must: 21
+be: 44
+shutting: 2
+up: 36
+like: 31
+a
+telescope
+
+And: 1
+so: 27
+it: 139
+was: 143
+indeed: 5
+She: 27
+was: 143
+now: 14
+only: 14
+ten: 5
+inches: 5
+high: 10
+and: 337
+her: 87
+face
+brightened: 1
+up: 36
+at: 77
+the: 653
+thought: 18
+that: 89
+she: 177
+was: 143
+now: 14
+the: 653
+right: 9
+size: 8
+for: 58
+going
+through: 1
+the: 653
+little: 46
+door: 18
+into: 36
+that: 89
+lovely: 2
+garden
+
+After: 1
+awhile: 2
+finding: 2
+that: 89
+nothing: 7
+more: 17
+happened: 2
+she: 177
+decided: 1
+on: 66
+going
+into: 1
+the: 653
+garden: 12
+at: 77
+once: 9
+but: 33
+alas: 3
+for: 58
+poor: 8
+Alice: 113
+When: 3
+she: 177
+got: 14
+to: 289
+the
+door: 1
+she: 177
+found: 19
+she: 177
+had: 56
+forgotten: 2
+the: 653
+little: 46
+golden: 6
+key: 8
+and: 337
+when: 28
+she
+went: 1
+back: 13
+to: 289
+the: 653
+table: 11
+for: 58
+it: 139
+she: 177
+found: 19
+she: 177
+could: 24
+not: 56
+possibly: 1
+reach
+it: 1
+she: 177
+could: 24
+see: 18
+it: 139
+quite: 15
+plainly: 1
+through: 8
+the: 653
+glass: 6
+and: 337
+she: 177
+tried: 6
+her
+best: 1
+to: 289
+climb: 1
+up: 36
+one: 27
+of: 268
+the: 653
+legs: 2
+of: 268
+the: 653
+table: 11
+but: 33
+it: 139
+was: 143
+too: 8
+slippery
+and: 1
+when: 28
+she: 177
+had: 56
+tired: 3
+herself: 24
+out: 50
+with: 99
+trying: 4
+the: 653
+poor: 8
+little: 46
+thing
+sat: 1
+down: 45
+and: 337
+cried
+
+Come: 1
+theres: 6
+no: 28
+use: 12
+in: 195
+crying: 1
+like: 31
+that: 89
+said: 137
+Alice: 113
+to: 289
+herself: 24
+rather
+sharply: 1
+advise: 1
+you: 128
+to: 289
+leave: 4
+off: 22
+this: 69
+minute: 6
+She: 27
+generally: 3
+gave
+herself: 1
+very: 34
+good: 8
+advice: 1
+though: 2
+she: 177
+very: 34
+seldom: 1
+followed: 4
+it: 139
+and
+sometimes: 1
+she: 177
+scolded: 1
+herself: 24
+so: 27
+severely: 3
+as: 81
+to: 289
+bring: 1
+tears: 3
+into: 36
+her
+eyes
+
+Soon: 1
+her: 87
+eye: 2
+fell: 5
+on: 66
+little: 46
+glass: 6
+box: 2
+that: 89
+was: 143
+lying: 3
+under: 12
+the: 653
+table
+she: 1
+opened: 6
+it: 139
+and: 337
+found: 19
+in: 195
+it: 139
+very: 34
+small: 9
+cake: 1
+on: 66
+which: 25
+the: 653
+words: 6
+EAT
+ME: 1
+were: 28
+beautifully: 2
+marked: 5
+in: 195
+currants: 1
+Well: 2
+Ill: 9
+eat: 6
+it: 139
+said
+Alice: 1
+and: 337
+if: 27
+it: 139
+makes: 3
+me: 24
+grow: 7
+larger: 4
+can: 17
+reach: 2
+the: 653
+key: 8
+and: 337
+if: 27
+it
+makes: 1
+me: 24
+grow: 7
+smaller: 1
+can: 17
+creep: 1
+under: 12
+the: 653
+door: 18
+so: 27
+either: 6
+way: 18
+Ill
+get: 1
+into: 36
+the: 653
+garden: 12
+and: 337
+dont: 13
+care: 3
+which: 25
+happens
+
+She: 1
+ate: 1
+little: 46
+bit: 7
+and: 337
+said: 137
+anxiously: 4
+to: 289
+herself: 24
+Which: 1
+way: 18
+Which
+way: 1
+holding: 2
+her: 87
+hand: 6
+on: 66
+the: 653
+top: 4
+of: 268
+her: 87
+head: 12
+to: 289
+feel: 2
+which: 25
+way: 18
+she: 177
+was
+growing: 1
+and: 337
+she: 177
+was: 143
+quite: 15
+surprised: 3
+to: 289
+find: 12
+that: 89
+she: 177
+remained: 2
+the: 653
+same
+size: 1
+So: 4
+she: 177
+set: 14
+to: 289
+work: 44
+and: 337
+very: 34
+soon: 12
+finished: 3
+off: 22
+the: 653
+cake
+
+Illustration
+
+
+
+
+IITHE: 1
+POOL: 1
+OF: 12
+TEARS
+
+
+Curiouser: 1
+and: 337
+curiouser: 1
+cried: 10
+Alice: 113
+she: 177
+was: 143
+so: 27
+much: 11
+surprised: 3
+that
+for: 1
+the: 653
+moment: 10
+she: 177
+quite: 15
+forgot: 1
+how: 12
+to: 289
+speak: 2
+good: 8
+English: 4
+Now: 4
+Im
+opening: 1
+out: 50
+like: 31
+the: 653
+largest: 1
+telescope: 1
+that: 89
+ever: 6
+was: 143
+Goodby: 1
+feet: 12
+Oh
+my: 1
+poor: 8
+little: 46
+feet: 12
+wonder: 5
+who: 17
+will: 10
+put: 9
+on: 66
+your: 22
+shoes: 1
+and: 337
+stockings
+for: 1
+you: 128
+now: 14
+dears: 2
+shall: 5
+be: 44
+great: 15
+deal: 5
+too: 8
+far: 4
+off: 22
+to: 289
+trouble
+myself: 1
+about: 35
+you
+
+Just: 1
+at: 77
+this: 69
+moment: 10
+her: 87
+head: 12
+struck: 2
+against: 4
+the: 653
+roof: 3
+of: 268
+the: 653
+hall: 7
+in
+fact: 1
+she: 177
+was: 143
+now: 14
+rather: 6
+more: 17
+than: 9
+nine: 3
+feet: 12
+high: 10
+and: 337
+she: 177
+at: 77
+once: 9
+took
+up: 1
+the: 653
+little: 46
+golden: 6
+key: 8
+and: 337
+hurried: 5
+off: 22
+to: 289
+the: 653
+garden: 12
+door
+
+Poor: 1
+Alice: 113
+It: 10
+was: 143
+as: 81
+much: 11
+as: 81
+she: 177
+could: 24
+do: 38
+lying: 3
+down: 45
+on: 66
+one: 27
+side: 7
+to
+look: 1
+through: 8
+into: 36
+the: 653
+garden: 12
+with: 99
+one: 27
+eye: 2
+but: 33
+to: 289
+get: 18
+through: 8
+was: 143
+more
+hopeless: 1
+than: 9
+ever: 6
+She: 27
+sat: 3
+down: 45
+and: 337
+began: 12
+to: 289
+cry: 2
+again
+
+She: 1
+went: 21
+on: 66
+shedding: 1
+gallons: 1
+of: 268
+tears: 3
+until: 3
+there: 14
+was: 143
+large: 18
+pool: 7
+all
+round: 1
+her: 87
+and: 337
+reaching: 2
+half: 9
+down: 45
+the: 653
+hall
+
+After: 1
+time: 18
+she: 177
+heard: 17
+little: 46
+pattering: 3
+of: 268
+feet: 12
+in: 195
+the: 653
+distance: 2
+and
+she: 2
+hastily: 7
+dried: 1
+her: 87
+eyes: 9
+to: 289
+see: 18
+what: 22
+was: 143
+coming: 3
+It: 10
+was: 143
+the: 653
+White
+Rabbit: 2
+returning: 1
+splendidly: 1
+dressed: 1
+with: 99
+pair: 4
+of: 268
+white: 5
+kidgloves: 3
+in
+one: 1
+hand: 6
+and: 337
+large: 18
+fan: 8
+in: 195
+the: 653
+other: 26
+He: 2
+came: 23
+trotting: 2
+along: 4
+in: 195
+a
+great: 1
+hurry: 4
+muttering: 1
+to: 289
+himself: 1
+Oh: 7
+the: 653
+Duchess: 17
+the: 653
+Duchess: 17
+Oh
+wont: 1
+she: 177
+be: 44
+savage: 1
+if: 27
+Ive: 6
+kept: 6
+her: 87
+waiting
+
+When: 1
+the: 653
+Rabbit: 25
+came: 23
+near: 9
+her: 87
+Alice: 113
+began: 12
+in: 195
+low: 9
+timid: 2
+voice: 16
+If
+you: 1
+please: 9
+sir: 6
+The: 38
+Rabbit: 25
+started: 1
+violently: 2
+dropped: 4
+the: 653
+white
+kidgloves: 1
+and: 337
+the: 653
+fan: 8
+and: 337
+skurried: 1
+away: 13
+into: 36
+the: 653
+darkness: 1
+as: 81
+hard: 5
+as: 81
+he
+could: 1
+go
+
+Illustration
+
+Alice: 1
+took: 12
+up: 36
+the: 653
+fan: 8
+and: 337
+gloves: 4
+and: 337
+she: 177
+kept: 6
+fanning: 1
+herself: 24
+all: 62
+the
+time: 2
+she: 177
+went: 21
+on: 66
+talking: 5
+Dear: 1
+dear: 10
+How: 3
+queer: 1
+everything: 2
+is: 54
+today
+And: 1
+yesterday: 1
+things: 4
+went: 21
+on: 66
+just: 16
+as: 81
+usual: 2
+Was: 1
+the: 653
+same: 10
+when: 28
+got
+up: 1
+this: 69
+morning: 2
+But: 5
+if: 27
+Im: 12
+not: 56
+the: 653
+same: 10
+the: 653
+next: 11
+question: 7
+is: 54
+Who: 2
+in
+the: 5
+world: 6
+am: 6
+Ah: 1
+thats: 3
+the: 653
+great: 15
+puzzle
+
+As: 1
+she: 177
+said: 137
+this: 69
+she: 177
+looked: 16
+down: 45
+at: 77
+her: 87
+hands: 5
+and: 337
+was: 143
+surprised: 3
+to: 289
+see
+that: 1
+she: 177
+had: 56
+put: 9
+on: 66
+one: 27
+of: 268
+the: 653
+Rabbits: 2
+little: 46
+white: 5
+kidgloves: 3
+while
+she: 1
+was: 143
+talking: 5
+How: 3
+can: 17
+have: 20
+done: 4
+that: 89
+she: 177
+thought: 18
+must: 21
+be
+growing: 1
+small: 9
+again: 18
+She: 27
+got: 14
+up: 36
+and: 337
+went: 21
+to: 289
+the: 653
+table: 11
+to: 289
+measure
+herself: 1
+by: 45
+it: 139
+and: 337
+found: 19
+that: 89
+she: 177
+was: 143
+now: 14
+about: 35
+two: 11
+feet: 12
+high: 10
+and: 337
+was
+going: 1
+on: 66
+shrinking: 3
+rapidly: 2
+She: 27
+soon: 12
+found: 19
+out: 50
+that: 89
+the: 653
+cause: 3
+of: 268
+this
+was: 1
+the: 653
+fan: 8
+she: 177
+was: 143
+holding: 2
+and: 337
+she: 177
+dropped: 4
+it: 139
+hastily: 7
+just: 16
+in: 195
+time: 18
+to
+save: 1
+herself: 24
+from: 25
+shrinking: 3
+away: 13
+altogether
+
+That: 1
+was: 143
+narrow: 1
+escape: 3
+said: 137
+Alice: 113
+good: 8
+deal: 5
+frightened: 3
+at: 77
+the
+sudden: 1
+change: 5
+but: 33
+very: 34
+glad: 3
+to: 289
+find: 12
+herself: 24
+still: 3
+in: 195
+existence: 1
+And
+now: 1
+for: 58
+the: 653
+garden: 12
+And: 10
+she: 177
+ran: 9
+with: 99
+all: 62
+speed: 1
+back: 13
+to: 289
+the: 653
+little: 46
+door
+but: 1
+alas: 3
+the: 653
+little: 46
+door: 18
+was: 143
+shut: 3
+again: 18
+and: 337
+the: 653
+little: 46
+golden: 6
+key: 8
+was
+lying: 1
+on: 66
+the: 653
+glass: 6
+table: 11
+as: 81
+before: 11
+Things: 1
+are: 30
+worse: 1
+than: 9
+ever
+thought: 1
+the: 653
+poor: 8
+child: 2
+for: 58
+never: 8
+was: 143
+so: 27
+small: 9
+as: 81
+this: 69
+before
+never
+
+As: 1
+she: 177
+said: 137
+these: 7
+words: 6
+her: 87
+foot: 5
+slipped: 2
+and: 337
+in: 195
+another: 8
+moment
+splash: 1
+she: 177
+was: 143
+up: 36
+to: 289
+her: 87
+chin: 3
+in: 195
+saltwater: 2
+Her: 2
+first: 12
+idea: 7
+was: 143
+that
+she: 1
+had: 56
+somehow: 1
+fallen: 3
+into: 36
+the: 653
+sea: 2
+However: 5
+she: 177
+soon: 12
+made: 11
+out: 50
+that: 89
+she
+was: 1
+in: 195
+the: 653
+pool: 7
+of: 268
+tears: 3
+which: 25
+she: 177
+had: 56
+wept: 1
+when: 28
+she: 177
+was: 143
+nine: 3
+feet: 12
+high
+
+Illustration
+
+Just: 1
+then: 17
+she: 177
+heard: 17
+something: 10
+splashing: 1
+about: 35
+in: 195
+the: 653
+pool: 7
+little: 46
+way
+off: 1
+and: 337
+she: 177
+swam: 3
+nearer: 1
+to: 289
+see: 18
+what: 22
+it: 139
+was: 143
+she: 177
+soon: 12
+made: 11
+out: 50
+that: 89
+it
+was: 2
+only: 14
+mouse: 4
+that: 89
+had: 56
+slipped: 2
+in: 195
+like: 31
+herself
+
+Would: 1
+it: 139
+be: 44
+of: 268
+any: 41
+use: 12
+now: 14
+thought: 18
+Alice: 113
+to: 289
+speak: 2
+to: 289
+this: 69
+mouse
+Everything: 1
+is: 54
+so: 27
+outoftheway: 1
+down: 45
+here: 13
+that: 89
+should: 11
+think: 14
+very
+likely: 1
+it: 139
+can: 17
+talk: 5
+at: 77
+any: 41
+rate: 6
+theres: 6
+no: 28
+harm: 1
+in: 195
+trying: 4
+So: 4
+she
+began: 2
+Mouse: 20
+do: 38
+you: 128
+know: 17
+the: 653
+way: 18
+out: 50
+of: 268
+this: 69
+pool: 7
+am: 6
+very: 34
+tired
+of: 1
+swimming: 2
+about: 35
+here: 13
+Mouse: 20
+The: 38
+Mouse: 20
+looked: 16
+at: 77
+her: 87
+rather
+inquisitively: 1
+and: 337
+seemed: 9
+to: 289
+her: 87
+to: 289
+wink: 1
+with: 99
+one: 27
+of: 268
+its: 27
+little: 46
+eyes: 9
+but
+it: 1
+said: 137
+nothing
+
+Perhaps: 1
+it: 139
+doesnt: 2
+understand: 3
+English: 4
+thought: 18
+Alice: 113
+dare: 1
+say: 12
+its
+a: 1
+French: 1
+mouse: 4
+come: 7
+over: 11
+with: 99
+William: 2
+the: 653
+Conqueror: 2
+So: 4
+she: 177
+began
+again: 1
+Où: 1
+est: 1
+ma: 1
+chatte: 1
+which: 25
+was: 143
+the: 653
+first: 12
+sentence: 4
+in: 195
+her: 87
+French
+lessonbook: 1
+The: 38
+Mouse: 20
+gave: 4
+sudden: 2
+leap: 1
+out: 50
+of: 268
+the: 653
+water: 1
+and: 337
+seemed: 9
+to
+quiver: 1
+all: 62
+over: 11
+with: 99
+fright: 2
+Oh: 7
+beg: 3
+your: 22
+pardon: 3
+cried: 10
+Alice
+hastily: 1
+afraid: 6
+that: 89
+she: 177
+had: 56
+hurt: 3
+the: 653
+poor: 8
+animals: 4
+feelings: 1
+quite
+forgot: 1
+you: 128
+didnt: 4
+like: 31
+cats
+
+Not: 1
+like: 31
+cats: 6
+cried: 10
+the: 653
+Mouse: 20
+in: 195
+shrill: 2
+passionate: 1
+voice: 16
+Would
+you: 1
+like: 31
+cats: 6
+if: 27
+you: 128
+were: 28
+me
+
+Well: 1
+perhaps: 1
+not: 56
+said: 137
+Alice: 113
+in: 195
+soothing: 1
+tone: 10
+dont: 13
+be: 44
+angry
+about: 1
+it: 139
+And: 10
+yet: 5
+wish: 8
+could: 24
+show: 2
+you: 128
+our: 9
+cat: 5
+Dinah: 5
+think: 14
+youd
+take: 1
+fancy: 1
+to: 289
+cats: 6
+if: 27
+you: 128
+could: 24
+only: 14
+see: 18
+her: 87
+She: 27
+is: 54
+such: 16
+dear
+quiet: 1
+thing: 14
+The: 38
+Mouse: 20
+was: 143
+bristling: 1
+all: 62
+over: 11
+and: 337
+she: 177
+felt: 6
+certain: 4
+it
+must: 1
+be: 44
+really: 1
+offended: 4
+We: 2
+wont: 4
+talk: 5
+about: 35
+her: 87
+any: 41
+more: 17
+if: 27
+youd
+rather: 1
+not
+
+We: 1
+indeed: 5
+cried: 10
+the: 653
+Mouse: 20
+who: 17
+was: 143
+trembling: 4
+down: 45
+to: 289
+the: 653
+end: 5
+of: 268
+its
+tail: 1
+As: 4
+if: 27
+would: 8
+talk: 5
+on: 66
+such: 16
+subject: 3
+Our: 1
+family: 1
+always: 2
+hated
+catsnasty: 1
+low: 9
+vulgar: 1
+things: 4
+Dont: 1
+let: 1
+me: 24
+hear: 5
+the: 653
+name: 5
+again
+
+Illustration: 1
+Alice: 113
+at: 77
+the: 653
+Mad: 1
+Tea: 1
+Party
+
+I: 1
+wont: 4
+indeed: 5
+said: 137
+Alice: 113
+in: 195
+great: 15
+hurry: 4
+to: 289
+change: 5
+the: 653
+subject: 3
+of
+conversation: 1
+Are: 2
+youare: 1
+you: 128
+fondofof: 1
+dogs: 2
+There: 12
+is: 54
+such: 16
+nice
+little: 1
+dog: 1
+near: 9
+our: 9
+house: 11
+should: 11
+like: 31
+to: 289
+show: 2
+you: 128
+It: 10
+kills: 1
+all: 62
+the
+rats: 1
+andoh: 1
+dear: 10
+cried: 10
+Alice: 113
+in: 195
+sorrowful: 1
+tone: 10
+Im: 12
+afraid: 6
+Ive
+offended: 1
+it: 139
+again: 18
+For: 4
+the: 653
+Mouse: 20
+was: 143
+swimming: 2
+away: 13
+from: 25
+her: 87
+as: 81
+hard: 5
+as
+it: 1
+could: 24
+go: 18
+and: 337
+making: 2
+quite: 15
+commotion: 1
+in: 195
+the: 653
+pool: 7
+as: 81
+it: 139
+went
+
+So: 1
+she: 177
+called: 9
+softly: 1
+after: 8
+it: 139
+Mouse: 20
+dear: 10
+Do: 5
+come: 7
+back: 13
+again: 18
+and: 337
+we
+wont: 1
+talk: 5
+about: 35
+cats: 6
+or: 89
+dogs: 2
+either: 6
+if: 27
+you: 128
+dont: 13
+like: 31
+them: 25
+When: 3
+the
+Mouse: 1
+heard: 17
+this: 69
+it: 139
+turned: 7
+round: 13
+and: 337
+swam: 3
+slowly: 4
+back: 13
+to: 289
+her: 87
+its: 27
+face
+was: 1
+quite: 15
+pale: 2
+and: 337
+it: 139
+said: 137
+in: 195
+low: 9
+trembling: 4
+voice: 16
+Let: 3
+us: 4
+get: 18
+to
+the: 1
+shore: 1
+and: 337
+then: 17
+Ill: 9
+tell: 9
+you: 128
+my: 16
+history: 2
+and: 337
+youll: 1
+understand: 3
+why: 5
+it
+is: 1
+hate: 1
+cats: 6
+and: 337
+dogs
+
+It: 1
+was: 143
+high: 10
+time: 18
+to: 289
+go: 18
+for: 58
+the: 653
+pool: 7
+was: 143
+getting: 7
+quite: 15
+crowded: 4
+with: 99
+the
+birds: 1
+and: 337
+animals: 4
+that: 89
+had: 56
+fallen: 3
+into: 36
+it: 139
+there: 14
+were: 28
+Duck: 1
+and: 337
+Dodo
+a: 1
+Lory: 2
+and: 337
+an: 21
+Eaglet: 2
+and: 337
+several: 3
+other: 26
+curious: 6
+creatures: 2
+Alice: 113
+led: 3
+the
+way: 1
+and: 337
+the: 653
+whole: 5
+party: 5
+swam: 3
+to: 289
+the: 653
+shore
+
+Illustration
+
+
+
+
+IIIA: 1
+CAUCUSRACE: 1
+AND: 4
+LONG: 1
+TALE
+
+
+They: 1
+were: 28
+indeed: 5
+queerlooking: 1
+party: 5
+that: 89
+assembled: 2
+on: 66
+the: 653
+bankthe
+birds: 1
+with: 99
+draggled: 1
+feathers: 1
+the: 653
+animals: 4
+with: 99
+their: 8
+fur: 1
+clinging: 1
+close
+to: 2
+them: 25
+and: 337
+all: 62
+dripping: 1
+wet: 2
+cross: 1
+and: 337
+uncomfortable
+
+Illustration
+
+The: 1
+first: 12
+question: 7
+of: 268
+course: 7
+was: 143
+how: 12
+to: 289
+get: 18
+dry: 3
+again: 18
+They: 3
+had: 56
+a
+consultation: 1
+about: 35
+this: 69
+and: 337
+after: 8
+few: 3
+minutes: 4
+it: 139
+seemed: 9
+quite: 15
+natural
+to: 1
+Alice: 113
+to: 289
+find: 12
+herself: 24
+talking: 5
+familiarly: 1
+with: 99
+them: 25
+as: 81
+if: 27
+she: 177
+had
+known: 1
+them: 25
+all: 62
+her: 87
+life
+
+At: 1
+last: 15
+the: 653
+Mouse: 20
+who: 17
+seemed: 9
+to: 289
+be: 44
+person: 3
+of: 268
+some: 17
+authority: 1
+among
+them: 1
+called: 9
+out: 50
+Sit: 1
+down: 45
+all: 62
+of: 268
+you: 128
+and: 337
+listen: 1
+to: 289
+me: 24
+Ill: 9
+soon
+make: 1
+you: 128
+dry: 3
+enough: 5
+They: 3
+all: 62
+sat: 3
+down: 45
+at: 77
+once: 9
+in: 195
+large: 18
+ring: 2
+with
+the: 2
+Mouse: 20
+in: 195
+the: 653
+middle
+
+Ahem: 1
+said: 137
+the: 653
+Mouse: 20
+with: 99
+an: 21
+important: 3
+air: 5
+Are: 2
+you: 128
+all: 62
+ready: 2
+This
+is: 1
+the: 653
+driest: 1
+thing: 14
+know: 17
+Silence: 2
+all: 62
+round: 13
+if: 27
+you: 128
+please: 9
+William
+the: 1
+Conqueror: 2
+whose: 1
+cause: 3
+was: 143
+favored: 1
+by: 45
+the: 653
+pope: 1
+was: 143
+soon: 12
+submitted
+to: 1
+by: 45
+the: 653
+English: 4
+who: 17
+wanted: 1
+leaders: 1
+and: 337
+had: 56
+been: 10
+of: 268
+late: 3
+much
+accustomed: 1
+to: 289
+usurpation: 1
+and: 337
+conquest: 1
+Edwin: 1
+and: 337
+Morcar: 1
+the: 653
+Earls: 1
+of
+Mercia: 1
+and: 337
+Northumbria
+
+Ugh: 1
+said: 137
+the: 653
+Lory: 2
+with: 99
+shiver
+
+And: 1
+even: 3
+Stigand: 1
+the: 653
+patriotic: 1
+archbishop: 1
+of: 268
+Canterbury: 1
+found: 19
+it
+advisable
+
+Found: 1
+what: 22
+said: 137
+the: 653
+Duck
+
+Found: 1
+it: 139
+the: 653
+Mouse: 20
+replied: 6
+rather: 6
+crossly: 1
+of: 268
+course: 7
+you: 128
+know
+what: 1
+it: 139
+means
+
+I: 1
+know: 17
+what: 22
+it: 139
+means: 4
+well: 15
+enough: 5
+when: 28
+find: 12
+thing: 14
+said: 137
+the
+Duck: 1
+its: 27
+generally: 3
+frog: 1
+or: 89
+worm: 1
+The: 38
+question: 7
+is: 54
+what: 22
+did: 12
+the
+archbishop: 1
+find
+
+The: 1
+Mouse: 20
+did: 12
+not: 56
+notice: 5
+this: 69
+question: 7
+but: 33
+hurriedly: 2
+went: 21
+on: 66
+found
+it: 1
+advisable: 1
+to: 289
+go: 18
+with: 99
+Edgar: 1
+Atheling: 1
+to: 289
+meet: 3
+William: 2
+and: 337
+offer: 1
+him: 4
+the
+crownHow: 1
+are: 30
+you: 128
+getting: 7
+on: 66
+now: 14
+my: 16
+dear: 10
+it: 139
+continued: 2
+turning: 6
+to
+Alice: 1
+as: 81
+it: 139
+spoke
+
+As: 1
+wet: 2
+as: 81
+ever: 6
+said: 137
+Alice: 113
+in: 195
+melancholy: 1
+tone: 10
+it: 139
+doesnt: 2
+seem: 3
+to
+dry: 1
+me: 24
+at: 77
+all
+
+In: 1
+that: 89
+case: 1
+said: 137
+the: 653
+Dodo: 6
+solemnly: 1
+rising: 1
+to: 289
+its: 27
+feet: 12
+move: 1
+that
+the: 2
+meeting: 1
+adjourn: 1
+for: 58
+the: 653
+immediate: 2
+adoption: 1
+of: 268
+more: 17
+energetic
+remedies
+
+Speak: 1
+English: 4
+said: 137
+the: 653
+Eaglet: 2
+dont: 13
+know: 17
+the: 653
+meaning: 3
+of: 268
+half
+those: 1
+long: 12
+words: 6
+and: 337
+whats: 2
+more: 17
+dont: 13
+believe: 3
+you: 128
+do: 38
+either
+
+What: 1
+was: 143
+going: 7
+to: 289
+say: 12
+said: 137
+the: 653
+Dodo: 6
+in: 195
+an: 21
+offended: 4
+tone: 10
+is: 54
+that
+the: 2
+best: 4
+thing: 14
+to: 289
+get: 18
+us: 4
+dry: 3
+would: 8
+be: 44
+Caucusrace
+
+What: 1
+is: 54
+Caucusrace: 1
+said: 137
+Alice
+
+Illustration
+
+Why: 1
+said: 137
+the: 653
+Dodo: 6
+the: 653
+best: 4
+way: 18
+to: 289
+explain: 2
+it: 139
+is: 54
+to: 289
+do: 38
+it: 139
+First: 4
+it
+marked: 1
+out: 50
+racecourse: 1
+in: 195
+sort: 4
+of: 268
+circle: 1
+and: 337
+then: 17
+all: 62
+the: 653
+party
+were: 1
+placed: 1
+along: 4
+the: 653
+course: 7
+here: 13
+and: 337
+there: 14
+There: 12
+was: 143
+no: 28
+One: 2
+two
+three: 1
+and: 337
+away: 13
+but: 33
+they: 27
+began: 12
+running: 4
+when: 28
+they: 27
+liked: 2
+and: 337
+left: 6
+off
+when: 1
+they: 27
+liked: 2
+so: 27
+that: 89
+it: 139
+was: 143
+not: 56
+easy: 2
+to: 289
+know: 17
+when: 28
+the: 653
+race: 2
+was: 143
+over
+However: 1
+when: 28
+they: 27
+had: 56
+been: 10
+running: 4
+half: 9
+an: 21
+hour: 2
+or: 89
+so: 27
+and: 337
+were: 28
+quite
+dry: 1
+again: 18
+the: 653
+Dodo: 6
+suddenly: 7
+called: 9
+out: 50
+The: 38
+race: 2
+is: 54
+over: 11
+and: 337
+they
+all: 1
+crowded: 4
+round: 13
+it: 139
+panting: 1
+and: 337
+asking: 3
+But: 5
+who: 17
+has: 4
+won
+
+This: 1
+question: 7
+the: 653
+Dodo: 6
+could: 24
+not: 56
+answer: 2
+without: 12
+great: 15
+deal: 5
+of: 268
+thought
+At: 1
+last: 15
+it: 139
+said: 137
+Everybody: 1
+has: 4
+won: 1
+and: 337
+all: 62
+must: 21
+have: 20
+prizes
+
+But: 1
+who: 17
+is: 54
+to: 289
+give: 6
+the: 653
+prizes: 2
+quite: 15
+chorus: 3
+of: 268
+voices: 2
+asked
+
+Why: 1
+she: 177
+of: 268
+course: 7
+said: 137
+the: 653
+Dodo: 6
+pointing: 1
+to: 289
+Alice: 113
+with: 99
+one
+finger: 1
+and: 337
+the: 653
+whole: 5
+party: 5
+at: 77
+once: 9
+crowded: 4
+round: 13
+her: 87
+calling: 1
+out: 50
+in
+a: 1
+confused: 1
+way: 18
+Prizes: 1
+Prizes
+
+Alice: 1
+had: 56
+no: 28
+idea: 7
+what: 22
+to: 289
+do: 38
+and: 337
+in: 195
+despair: 1
+she: 177
+put: 9
+her: 87
+hand: 6
+into: 36
+her
+pocket: 1
+and: 337
+pulled: 1
+out: 50
+box: 2
+of: 268
+comfits: 2
+luckily: 1
+the: 653
+saltwater: 2
+had: 56
+not
+got: 1
+into: 36
+it: 139
+and: 337
+handed: 2
+them: 25
+round: 13
+as: 81
+prizes: 2
+There: 12
+was: 143
+exactly: 2
+one
+apiece: 1
+all: 62
+round
+
+The: 1
+next: 11
+thing: 14
+was: 143
+to: 289
+eat: 6
+the: 653
+comfits: 2
+this: 69
+caused: 2
+some: 17
+noise: 2
+and
+confusion: 1
+as: 81
+the: 653
+large: 18
+birds: 4
+complained: 1
+that: 89
+they: 27
+could: 24
+not: 56
+taste
+theirs: 1
+and: 337
+the: 653
+small: 9
+ones: 1
+choked: 1
+and: 337
+had: 56
+to: 289
+be: 44
+patted: 1
+on: 66
+the: 653
+back
+However: 1
+it: 139
+was: 143
+over: 11
+at: 77
+last: 15
+and: 337
+they: 27
+sat: 3
+down: 45
+again: 18
+in: 195
+ring: 2
+and
+begged: 1
+the: 653
+Mouse: 20
+to: 289
+tell: 9
+them: 25
+something: 10
+more
+
+You: 2
+promised: 1
+to: 289
+tell: 9
+me: 24
+your: 22
+history: 2
+you: 128
+know: 17
+said: 137
+Alice: 113
+and: 337
+why
+it: 1
+is: 54
+you: 128
+hateC: 1
+and: 337
+she: 177
+added: 7
+in: 195
+whisper: 1
+half: 9
+afraid: 6
+that: 89
+it
+would: 2
+be: 44
+offended: 4
+again
+
+Mine: 1
+is: 54
+long: 12
+and: 337
+sad: 2
+tale: 1
+said: 137
+the: 653
+Mouse: 20
+turning: 6
+to: 289
+Alice: 113
+and
+sighing
+
+It: 1
+is: 54
+long: 12
+tail: 2
+certainly: 3
+said: 137
+Alice: 113
+looking: 8
+down: 45
+with: 99
+wonder
+at: 1
+the: 653
+Mouses: 1
+tail: 2
+but: 33
+why: 5
+do: 38
+you: 128
+call: 2
+it: 139
+sad: 2
+And: 10
+she: 177
+kept: 6
+on
+puzzling: 1
+about: 35
+it: 139
+while: 3
+the: 653
+Mouse: 20
+was: 143
+speaking: 1
+so: 27
+that: 89
+her: 87
+idea: 7
+of: 268
+the
+tale: 1
+was: 143
+something: 10
+like: 31
+this
+
+: 1
+: 847
+: 847
+: 847
+Fury: 1
+said: 137
+to
+: 3
+: 847
+: 847
+: 847
+: 847
+: 847
+mouse: 4
+That
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+he: 19
+met: 3
+in: 195
+the
+: 4
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+house: 11
+Let
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+us: 4
+both: 4
+go
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+to: 289
+law: 7
+I
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+will: 10
+prosecute
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+you
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Come: 2
+Ill
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+take: 5
+no: 28
+denial
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+We
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+must: 21
+have
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+the: 653
+trial
+: 1
+: 847
+: 847
+: 847
+: 847
+For: 4
+really
+: 1
+: 847
+: 847
+: 847
+this: 69
+morning
+: 1
+: 847
+: 847
+: 847
+Ive
+: 1
+: 847
+: 847
+: 847
+nothing
+: 1
+: 847
+: 847
+: 847
+to: 289
+do
+: 1
+: 847
+: 847
+: 847
+Said: 1
+the
+: 4
+: 847
+: 847
+: 847
+: 847
+mouse: 4
+to
+: 3
+: 847
+: 847
+: 847
+: 847
+: 847
+the: 653
+cur
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Such: 1
+a
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+trial: 2
+dear
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+sir: 6
+With
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+no: 28
+jury
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+or: 89
+judge
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+would
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+be: 44
+wasting
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+our
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+breath
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Ill: 9
+be
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+judge
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Ill: 9
+be
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+jury
+: 2
+: 847
+: 847
+: 847
+: 847
+said
+: 1
+: 847
+: 847
+: 847
+cunning
+: 1
+: 847
+: 847
+: 847
+old
+: 1
+: 847
+: 847
+: 847
+: 847
+Fury
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+Ill
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+try
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+the
+: 4
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+whole
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+cause
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+and
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+condemn
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+you: 128
+to
+: 3
+: 847
+: 847
+: 847
+death
+
+You: 1
+are: 30
+not: 56
+attending: 1
+said: 137
+the: 653
+Mouse: 20
+to: 289
+Alice: 113
+severely: 3
+What: 3
+are
+you: 1
+thinking: 3
+of
+
+I: 1
+beg: 3
+your: 22
+pardon: 3
+said: 137
+Alice: 113
+very: 34
+humbly: 1
+you: 128
+had: 56
+got: 14
+to: 289
+the: 653
+fifth
+bend: 1
+think
+
+You: 1
+insult: 1
+me: 24
+by: 45
+talking: 5
+such: 16
+nonsense: 2
+said: 137
+the: 653
+Mouse: 20
+getting: 7
+up: 36
+and
+walking: 1
+away
+
+Please: 1
+come: 7
+back: 13
+and: 337
+finish: 1
+your: 22
+story: 1
+Alice: 113
+called: 9
+after: 8
+it: 139
+And: 10
+the
+others: 1
+all: 62
+joined: 1
+in: 195
+chorus: 3
+Yes: 1
+please: 9
+do: 38
+But: 5
+the: 653
+Mouse: 20
+only: 14
+shook
+its: 1
+head: 12
+impatiently: 1
+and: 337
+walked: 6
+little: 46
+quicker
+
+I: 1
+wish: 8
+had: 56
+Dinah: 5
+our: 9
+cat: 5
+here: 13
+said: 137
+Alice: 113
+This: 6
+caused: 2
+a
+remarkable: 1
+sensation: 1
+among: 7
+the: 653
+party: 5
+Some: 2
+of: 268
+the: 653
+birds: 4
+hurried: 5
+off: 22
+at
+once: 1
+and: 337
+Canary: 1
+called: 9
+out: 50
+in: 195
+trembling: 4
+voice: 16
+to: 289
+its: 27
+children
+Come: 1
+away: 13
+my: 16
+dears: 2
+Its: 3
+high: 10
+time: 18
+you: 128
+were: 28
+all: 62
+in: 195
+bed: 1
+On: 1
+various
+pretexts: 1
+they: 27
+all: 62
+moved: 1
+off: 22
+and: 337
+Alice: 113
+was: 143
+soon: 12
+left: 6
+alone
+
+I: 1
+wish: 8
+hadnt: 1
+mentioned: 1
+Dinah: 5
+Nobody: 1
+seems: 2
+to: 289
+like: 31
+her: 87
+down: 45
+here: 13
+and
+Im: 1
+sure: 4
+shes: 1
+the: 653
+best: 4
+cat: 5
+in: 195
+the: 653
+world: 6
+Poor: 1
+Alice: 113
+began: 12
+to: 289
+cry
+again: 1
+for: 58
+she: 177
+felt: 6
+very: 34
+lonely: 1
+and: 337
+lowspirited: 1
+In: 4
+little: 46
+while
+however: 1
+she: 177
+again: 18
+heard: 17
+little: 46
+pattering: 3
+of: 268
+footsteps: 1
+in: 195
+the: 653
+distance
+and: 1
+she: 177
+looked: 16
+up: 36
+eagerly
+
+Illustration
+
+Illustration
+
+
+
+
+IVTHE: 1
+RABBIT: 2
+SENDS: 1
+IN: 6
+LITTLE: 1
+BILL
+
+
+It: 1
+was: 143
+the: 653
+White: 13
+Rabbit: 25
+trotting: 2
+slowly: 4
+back: 13
+again: 18
+and: 337
+looking
+anxiously: 1
+about: 35
+as: 81
+it: 139
+went: 21
+as: 81
+if: 27
+it: 139
+had: 56
+lost: 2
+something: 10
+Alice: 113
+heard: 17
+it
+muttering: 1
+to: 289
+itself: 3
+The: 38
+Duchess: 17
+The: 38
+Duchess: 17
+Oh: 7
+my: 16
+dear: 10
+paws: 1
+Oh: 7
+my
+fur: 1
+and: 337
+whiskers: 2
+Shell: 1
+get: 18
+me: 24
+executed: 2
+as: 81
+sure: 4
+as: 81
+ferrets: 1
+are
+ferrets: 1
+Where: 2
+can: 17
+have: 20
+dropped: 4
+them: 25
+wonder: 5
+Alice: 113
+guessed: 2
+in: 195
+a
+moment: 2
+that: 89
+it: 139
+was: 143
+looking: 8
+for: 58
+the: 653
+fan: 8
+and: 337
+the: 653
+pair: 4
+of: 268
+white: 5
+kidgloves
+and: 1
+she: 177
+very: 34
+goodnaturedly: 1
+began: 12
+hunting: 1
+about: 35
+for: 58
+them: 25
+but: 33
+they: 27
+were
+nowhere: 1
+to: 289
+be: 44
+seeneverything: 1
+seemed: 9
+to: 289
+have: 20
+changed: 3
+since: 3
+her: 87
+swim: 1
+in
+the: 5
+pool: 7
+and: 337
+the: 653
+great: 15
+hall: 7
+with: 99
+the: 653
+glass: 6
+table: 11
+and: 337
+the: 653
+little: 46
+door
+had: 1
+vanished: 1
+completely
+
+Very: 1
+soon: 12
+the: 653
+Rabbit: 25
+noticed: 6
+Alice: 113
+and: 337
+called: 9
+to: 289
+her: 87
+in: 195
+an: 21
+angry: 2
+tone
+Why: 1
+Mary: 3
+Ann: 4
+what: 22
+are: 30
+you: 128
+doing: 3
+out: 50
+here: 13
+Run: 1
+home: 2
+this: 69
+moment: 10
+and
+fetch: 1
+me: 24
+pair: 4
+of: 268
+gloves: 4
+and: 337
+fan: 8
+Quick: 1
+now
+
+He: 1
+took: 12
+me: 24
+for: 58
+his: 15
+housemaid: 1
+said: 137
+Alice: 113
+as: 81
+she: 177
+ran: 9
+off: 22
+How
+surprised: 1
+hell: 1
+be: 44
+when: 28
+he: 19
+finds: 1
+out: 50
+who: 17
+am: 6
+As: 4
+she: 177
+said: 137
+this: 69
+she
+came: 1
+upon: 15
+neat: 1
+little: 46
+house: 11
+on: 66
+the: 653
+door: 18
+of: 268
+which: 25
+was: 143
+bright: 4
+brass
+plate: 1
+with: 99
+the: 653
+name: 5
+RABBIT: 2
+engraved: 1
+upon: 15
+it: 139
+She: 27
+went: 21
+in: 195
+without
+knocking: 1
+and: 337
+hurried: 5
+upstairs: 1
+in: 195
+great: 15
+fear: 1
+lest: 1
+she: 177
+should: 11
+meet: 3
+the
+real: 1
+Mary: 3
+Ann: 4
+and: 337
+be: 44
+turned: 7
+out: 50
+of: 268
+the: 653
+house: 11
+before: 11
+she: 177
+had: 56
+found: 19
+the
+fan: 1
+and: 337
+gloves
+
+By: 1
+this: 69
+time: 18
+Alice: 113
+had: 56
+found: 19
+her: 87
+way: 18
+into: 36
+tidy: 1
+little: 46
+room: 6
+with: 99
+a
+table: 1
+in: 195
+the: 653
+window: 4
+and: 337
+on: 66
+it: 139
+fan: 8
+and: 337
+two: 11
+or: 89
+three: 6
+pairs: 1
+of: 268
+tiny
+white: 1
+kidgloves: 3
+she: 177
+took: 12
+up: 36
+the: 653
+fan: 8
+and: 337
+pair: 4
+of: 268
+the: 653
+gloves: 4
+and: 337
+was
+just: 1
+going: 7
+to: 289
+leave: 4
+the: 653
+room: 6
+when: 28
+her: 87
+eyes: 9
+fell: 5
+upon: 15
+little: 46
+bottle
+that: 1
+stood: 5
+near: 9
+the: 653
+lookingglass: 1
+She: 27
+uncorked: 1
+it: 139
+and: 337
+put: 9
+it: 139
+to: 289
+her
+lips: 1
+saying: 2
+to: 289
+herself: 24
+do: 38
+hope: 2
+itll: 2
+make: 8
+me: 24
+grow: 7
+large: 18
+again: 18
+for
+really: 1
+Im: 12
+quite: 15
+tired: 3
+of: 268
+being: 1
+such: 16
+tiny: 2
+little: 46
+thing
+
+Before: 1
+she: 177
+had: 56
+drunk: 1
+half: 9
+the: 653
+bottle: 5
+she: 177
+found: 19
+her: 87
+head: 12
+pressing
+against: 1
+the: 653
+ceiling: 1
+and: 337
+had: 56
+to: 289
+stoop: 1
+to: 289
+save: 1
+her: 87
+neck: 5
+from: 25
+being
+broken: 1
+She: 27
+hastily: 7
+put: 9
+down: 45
+the: 653
+bottle: 5
+remarking: 2
+Thats: 4
+quite
+enoughI: 1
+hope: 2
+shant: 3
+grow: 7
+any: 41
+more
+
+Alas: 1
+It: 10
+was: 143
+too: 8
+late: 3
+to: 289
+wish: 8
+that: 89
+She: 27
+went: 21
+on: 66
+growing: 4
+and: 337
+growing: 4
+and
+very: 1
+soon: 12
+she: 177
+had: 56
+to: 289
+kneel: 1
+down: 45
+on: 66
+the: 653
+floor: 2
+Still: 1
+she: 177
+went: 21
+on: 66
+growing
+and: 1
+as: 81
+last: 15
+resource: 1
+she: 177
+put: 9
+one: 27
+arm: 9
+out: 50
+of: 268
+the: 653
+window: 4
+and: 337
+one: 27
+foot
+up: 1
+the: 653
+chimney: 2
+and: 337
+said: 137
+to: 289
+herself: 24
+Now: 4
+can: 17
+do: 38
+no: 28
+more: 17
+whatever
+happens: 1
+What: 3
+will: 10
+become: 1
+of: 268
+me
+
+Illustration
+
+Luckily: 1
+for: 58
+Alice: 113
+the: 653
+little: 46
+magic: 1
+bottle: 5
+had: 56
+now: 14
+had: 56
+its: 27
+full: 13
+effect
+and: 1
+she: 177
+grew: 1
+no: 28
+larger: 4
+After: 3
+few: 3
+minutes: 4
+she: 177
+heard: 17
+voice: 16
+outside
+and: 1
+stopped: 2
+to: 289
+listen
+
+Mary: 1
+Ann: 4
+Mary: 3
+Ann: 4
+said: 137
+the: 653
+voice: 16
+Fetch: 1
+me: 24
+my: 16
+gloves: 4
+this: 69
+moment
+Then: 1
+came: 23
+little: 46
+pattering: 3
+of: 268
+feet: 12
+on: 66
+the: 653
+stairs: 1
+Alice: 113
+knew: 2
+it: 139
+was
+the: 1
+Rabbit: 25
+coming: 3
+to: 289
+look: 3
+for: 58
+her: 87
+and: 337
+she: 177
+trembled: 1
+till: 4
+she: 177
+shook: 2
+the
+house: 1
+quite: 15
+forgetting: 1
+that: 89
+she: 177
+was: 143
+now: 14
+about: 35
+thousand: 1
+times: 2
+as: 81
+large
+as: 1
+the: 653
+Rabbit: 25
+and: 337
+had: 56
+no: 28
+reason: 2
+to: 289
+be: 44
+afraid: 6
+of: 268
+it
+
+Presently: 1
+the: 653
+Rabbit: 25
+came: 23
+up: 36
+to: 289
+the: 653
+door: 18
+and: 337
+tried: 6
+to: 289
+open: 4
+it: 139
+but: 33
+as
+the: 1
+door: 18
+opened: 6
+inwards: 1
+and: 337
+Alices: 7
+elbow: 1
+was: 143
+pressed: 2
+hard: 5
+against: 4
+it
+that: 1
+attempt: 1
+proved: 1
+failure: 1
+Alice: 113
+heard: 17
+it: 139
+say: 12
+to: 289
+itself: 3
+Then: 4
+Ill
+go: 1
+round: 13
+and: 337
+get: 18
+in: 195
+at: 77
+the: 653
+window
+
+That: 1
+you: 128
+wont: 4
+thought: 18
+Alice: 113
+and: 337
+after: 8
+waiting: 3
+till: 4
+she: 177
+fancied
+she: 1
+heard: 17
+the: 653
+Rabbit: 25
+just: 16
+under: 12
+the: 653
+window: 4
+she: 177
+suddenly: 7
+spread: 2
+out: 50
+her
+hand: 1
+and: 337
+made: 11
+snatch: 1
+in: 195
+the: 653
+air: 5
+She: 27
+did: 12
+not: 56
+get: 18
+hold: 2
+of: 268
+anything
+but: 1
+she: 177
+heard: 17
+little: 46
+shriek: 2
+and: 337
+fall: 4
+and: 337
+crash: 2
+of: 268
+broken: 3
+glass
+from: 1
+which: 25
+she: 177
+concluded: 1
+that: 89
+it: 139
+was: 143
+just: 16
+possible: 1
+it: 139
+had: 56
+fallen: 3
+into: 36
+a
+cucumberframe: 1
+or: 89
+something: 10
+of: 268
+that: 89
+sort
+
+Next: 1
+came: 23
+an: 21
+angry: 2
+voicethe: 1
+RabbitsPat: 1
+Pat: 2
+Where: 2
+are: 30
+you: 128
+And
+then: 1
+voice: 16
+she: 177
+had: 56
+never: 8
+heard: 17
+before: 11
+Sure: 1
+then: 17
+Im: 12
+here: 13
+Digging
+for: 1
+apples: 1
+yer: 2
+honor
+
+Here: 1
+Come: 2
+and: 337
+help: 5
+me: 24
+out: 50
+of: 268
+this: 69
+Now: 4
+tell: 9
+me: 24
+Pat: 2
+whats: 2
+that: 89
+in
+the: 5
+window
+
+Sure: 1
+its: 27
+an: 21
+arm: 9
+yer: 2
+honor
+
+Well: 1
+its: 27
+got: 14
+no: 28
+business: 3
+there: 14
+at: 77
+any: 41
+rate: 6
+go: 18
+and: 337
+take: 5
+it: 139
+away
+
+There: 1
+was: 143
+long: 12
+silence: 3
+after: 8
+this: 69
+and: 337
+Alice: 113
+could: 24
+only: 14
+hear: 5
+whispers
+now: 1
+and: 337
+then: 17
+and: 337
+at: 77
+last: 15
+she: 177
+spread: 2
+out: 50
+her: 87
+hand: 6
+again: 18
+and: 337
+made: 11
+another
+snatch: 1
+in: 195
+the: 653
+air: 5
+This: 6
+time: 18
+there: 14
+were: 28
+two: 11
+little: 46
+shrieks: 1
+and: 337
+more
+sounds: 1
+of: 268
+broken: 3
+glass: 6
+wonder: 5
+what: 22
+theyll: 1
+do: 38
+next: 11
+thought: 18
+Alice
+As: 1
+for: 58
+pulling: 1
+me: 24
+out: 50
+of: 268
+the: 653
+window: 4
+only: 14
+wish: 8
+they: 27
+could
+
+She: 1
+waited: 3
+for: 58
+some: 17
+time: 18
+without: 12
+hearing: 2
+anything: 5
+more: 17
+At: 3
+last: 15
+came: 23
+a
+rumbling: 1
+of: 268
+little: 46
+cartwheels: 1
+and: 337
+the: 653
+sound: 2
+of: 268
+good: 8
+many: 4
+voices: 2
+all
+talking: 1
+together: 2
+She: 27
+made: 11
+out: 50
+the: 653
+words: 6
+Wheres: 2
+the: 653
+other: 26
+ladder
+Bills: 1
+got: 14
+the: 653
+otherBill: 1
+Here: 2
+Bill: 2
+Will: 1
+the: 653
+roof: 3
+bearWhos: 1
+to: 289
+go
+down: 1
+the: 653
+chimneyNay: 1
+shant: 3
+You: 14
+do: 38
+it: 139
+Here: 2
+Bill: 2
+The: 38
+master
+says: 1
+youve: 1
+got: 14
+to: 289
+go: 18
+down: 45
+the: 653
+chimney
+
+Alice: 1
+drew: 2
+her: 87
+foot: 5
+as: 81
+far: 4
+down: 45
+the: 653
+chimney: 2
+as: 81
+she: 177
+could: 24
+and: 337
+waited: 3
+till
+she: 1
+heard: 17
+little: 46
+animal: 1
+scratching: 1
+and: 337
+scrambling: 1
+about: 35
+in: 195
+the: 653
+chimney
+close: 1
+above: 1
+her: 87
+then: 17
+she: 177
+gave: 4
+one: 27
+sharp: 2
+kick: 1
+and: 337
+waited: 3
+to: 289
+see: 18
+what
+would: 1
+happen: 1
+next
+
+The: 1
+first: 12
+thing: 14
+she: 177
+heard: 17
+was: 143
+general: 2
+chorus: 3
+of: 268
+There: 12
+goes: 2
+Bill
+then: 1
+the: 653
+Rabbits: 2
+voice: 16
+aloneCatch: 1
+him: 4
+you: 128
+by: 45
+the: 653
+hedge: 2
+Then
+silence: 1
+and: 337
+then: 17
+another: 8
+confusion: 2
+of: 268
+voicesHold: 1
+up: 36
+his: 15
+headBrandy
+nowDont: 1
+choke: 1
+himWhat: 1
+happened: 2
+to: 289
+you
+
+Last: 1
+came: 23
+little: 46
+feeble: 1
+squeaking: 1
+voice: 16
+Well: 2
+hardly: 2
+knowNo
+more: 1
+thank: 1
+ye: 1
+Im: 12
+better: 3
+nowall: 1
+know: 17
+is: 54
+something: 10
+comes: 2
+at: 77
+me
+like: 1
+Jackinthebox: 1
+and: 337
+up: 36
+goes: 2
+like: 31
+skyrocket
+
+After: 1
+minute: 6
+or: 89
+two: 11
+of: 268
+silence: 3
+they: 27
+began: 12
+moving: 1
+about: 35
+again: 18
+and
+Alice: 2
+heard: 17
+the: 653
+Rabbit: 25
+say: 12
+barrowful: 2
+will: 10
+do: 38
+to: 289
+begin: 1
+with
+
+A: 1
+barrowful: 2
+of: 268
+what: 22
+thought: 18
+Alice: 113
+But: 5
+she: 177
+had: 56
+not: 56
+long: 12
+to: 289
+doubt
+for: 1
+the: 653
+next: 11
+moment: 10
+shower: 2
+of: 268
+little: 46
+pebbles: 2
+came: 23
+rattling: 1
+in: 195
+at: 77
+the
+window: 1
+and: 337
+some: 17
+of: 268
+them: 25
+hit: 1
+her: 87
+in: 195
+the: 653
+face: 4
+Alice: 113
+noticed: 6
+with: 99
+some
+surprise: 1
+that: 89
+the: 653
+pebbles: 2
+were: 28
+all: 62
+turning: 6
+into: 36
+little: 46
+cakes: 3
+as: 81
+they
+lay: 1
+on: 66
+the: 653
+floor: 2
+and: 337
+bright: 4
+idea: 7
+came: 23
+into: 36
+her: 87
+head: 12
+If: 17
+eat: 6
+one: 27
+of
+these: 1
+cakes: 3
+she: 177
+thought: 18
+its: 27
+sure: 4
+to: 289
+make: 8
+some: 17
+change: 5
+in: 195
+my: 16
+size
+
+So: 1
+she: 177
+swallowed: 1
+one: 27
+of: 268
+the: 653
+cakes: 3
+and: 337
+was: 143
+delighted: 2
+to: 289
+find: 12
+that: 89
+she
+began: 2
+shrinking: 3
+directly: 2
+As: 4
+soon: 12
+as: 81
+she: 177
+was: 143
+small: 9
+enough: 5
+to: 289
+get: 18
+through
+the: 1
+door: 18
+she: 177
+ran: 9
+out: 50
+of: 268
+the: 653
+house: 11
+and: 337
+found: 19
+quite: 15
+crowd: 2
+of: 268
+little
+animals: 1
+and: 337
+birds: 4
+waiting: 3
+outside: 2
+They: 3
+all: 62
+made: 11
+rush: 1
+at: 77
+Alice: 113
+the
+moment: 1
+she: 177
+appeared: 1
+but: 33
+she: 177
+ran: 9
+off: 22
+as: 81
+hard: 5
+as: 81
+she: 177
+could: 24
+and: 337
+soon: 12
+found
+herself: 1
+safe: 1
+in: 195
+thick: 1
+wood
+
+Illustration: 1
+The: 38
+Duchess: 17
+tucked: 2
+her: 87
+arm: 9
+affectionately: 2
+into
+Alices
+
+The: 1
+first: 12
+thing: 14
+Ive: 6
+got: 14
+to: 289
+do: 38
+said: 137
+Alice: 113
+to: 289
+herself: 24
+as: 81
+she
+wandered: 1
+about: 35
+in: 195
+the: 653
+wood: 4
+is: 54
+to: 289
+grow: 7
+to: 289
+my: 16
+right: 9
+size: 8
+again: 18
+and: 337
+the
+second: 1
+thing: 14
+is: 54
+to: 289
+find: 12
+my: 16
+way: 18
+into: 36
+that: 89
+lovely: 2
+garden: 12
+suppose: 2
+I
+ought: 1
+to: 289
+eat: 6
+or: 89
+drink: 2
+something: 10
+or: 89
+other: 26
+but: 33
+the: 653
+great: 15
+question: 7
+is
+What
+
+Alice: 1
+looked: 16
+all: 62
+around: 1
+her: 87
+at: 77
+the: 653
+flowers: 2
+and: 337
+the: 653
+blades: 1
+of: 268
+grass: 2
+but
+she: 1
+could: 24
+not: 56
+see: 18
+anything: 5
+that: 89
+looked: 16
+like: 31
+the: 653
+right: 9
+thing: 14
+to: 289
+eat: 6
+or
+drink: 1
+under: 12
+the: 653
+circumstances: 1
+There: 12
+was: 143
+large: 18
+mushroom: 6
+growing: 4
+near
+her: 1
+about: 35
+the: 653
+same: 10
+height: 3
+as: 81
+herself: 24
+She: 27
+stretched: 2
+herself: 24
+up: 36
+on
+tiptoe: 1
+and: 337
+peeped: 3
+over: 11
+the: 653
+edge: 1
+and: 337
+her: 87
+eyes: 9
+immediately: 1
+met: 3
+those: 6
+of: 268
+a
+large: 1
+blue: 1
+caterpillar: 1
+that: 89
+was: 143
+sitting: 4
+on: 66
+the: 653
+top: 4
+with: 99
+its: 27
+arms
+folded: 1
+quietly: 2
+smoking: 1
+long: 12
+hookah: 3
+and: 337
+taking: 1
+not: 56
+the: 653
+smallest: 1
+notice
+of: 1
+her: 87
+or: 89
+of: 268
+anything: 5
+else
+
+Illustration
+
+
+
+
+VADVICE: 1
+FROM: 1
+CATERPILLAR
+
+
+At: 1
+last: 15
+the: 653
+Caterpillar: 7
+took: 12
+the: 653
+hookah: 3
+out: 50
+of: 268
+its: 27
+mouth: 3
+and: 337
+addressed
+Alice: 1
+in: 195
+languid: 1
+sleepy: 2
+voice
+
+Who: 1
+are: 30
+you: 128
+said: 137
+the: 653
+Caterpillar
+
+Illustration
+
+Alice: 1
+replied: 6
+rather: 6
+shyly: 1
+II: 1
+hardly: 2
+know: 17
+sir: 6
+just: 16
+at: 77
+presentat
+least: 1
+know: 17
+who: 17
+was: 143
+when: 28
+got: 14
+up: 36
+this: 69
+morning: 2
+but: 33
+think: 14
+must
+have: 1
+changed: 3
+several: 3
+times: 2
+since: 3
+then
+
+What: 1
+do: 38
+you: 128
+mean: 5
+by: 45
+that: 89
+said: 137
+the: 653
+Caterpillar: 7
+sternly: 1
+Explain
+yourself
+
+I: 1
+cant: 5
+explain: 2
+myself: 2
+Im: 12
+afraid: 6
+sir: 6
+said: 137
+Alice: 113
+because: 4
+Im
+not: 1
+myself: 2
+you: 128
+seebeing: 1
+so: 27
+many: 4
+different: 2
+sizes: 1
+in: 195
+day: 4
+is: 54
+very
+confusing: 1
+She: 27
+drew: 2
+herself: 24
+up: 36
+and: 337
+said: 137
+very: 34
+gravely: 1
+think: 14
+you
+ought: 1
+to: 289
+tell: 9
+me: 24
+who: 17
+you: 128
+are: 30
+first
+
+Why: 1
+said: 137
+the: 653
+Caterpillar
+
+As: 1
+Alice: 113
+could: 24
+not: 56
+think: 14
+of: 268
+any: 41
+good: 8
+reason: 2
+and: 337
+the: 653
+Caterpillar: 7
+seemed
+to: 2
+be: 44
+in: 195
+very: 34
+unpleasant: 1
+state: 4
+of: 268
+mind: 6
+she: 177
+turned: 7
+away
+
+Come: 1
+back: 13
+the: 653
+Caterpillar: 7
+called: 9
+after: 8
+her: 87
+Ive: 6
+something: 10
+important
+to: 1
+say: 12
+Alice: 113
+turned: 7
+and: 337
+came: 23
+back: 13
+again
+
+Keep: 1
+your: 22
+temper: 2
+said: 137
+the: 653
+Caterpillar
+
+Is: 1
+that: 89
+all: 62
+said: 137
+Alice: 113
+swallowing: 1
+down: 45
+her: 87
+anger: 2
+as: 81
+well: 15
+as: 81
+she
+could
+
+No: 1
+said: 137
+the: 653
+Caterpillar
+
+It: 1
+unfolded: 1
+its: 27
+arms: 3
+took: 12
+the: 653
+hookah: 3
+out: 50
+of: 268
+its: 27
+mouth: 3
+again: 18
+and: 337
+said
+So: 1
+you: 128
+think: 14
+youre: 4
+changed: 3
+do: 38
+you
+
+Im: 1
+afraid: 6
+am: 6
+sir: 6
+said: 137
+Alice: 113
+cant: 5
+remember: 3
+things: 4
+as: 81
+I
+usedand: 1
+dont: 13
+keep: 3
+the: 653
+same: 10
+size: 8
+for: 58
+ten: 5
+minutes: 4
+together
+
+What: 1
+size: 8
+do: 38
+you: 128
+want: 2
+to: 289
+be: 44
+asked: 3
+the: 653
+Caterpillar
+
+Oh: 1
+Im: 12
+not: 56
+particular: 3
+as: 81
+to: 289
+size: 8
+Alice: 113
+hastily: 7
+replied: 6
+only: 14
+one
+doesnt: 1
+like: 31
+changing: 1
+so: 27
+often: 2
+you: 128
+know: 17
+should: 11
+like: 31
+to: 289
+be: 44
+little
+larger: 1
+sir: 6
+if: 27
+you: 128
+wouldnt: 1
+mind: 6
+said: 137
+Alice: 113
+Three: 1
+inches: 5
+is: 54
+such: 16
+a
+wretched: 1
+height: 3
+to: 289
+be
+
+It: 1
+is: 54
+very: 34
+good: 8
+height: 3
+indeed: 5
+said: 137
+the: 653
+Caterpillar: 7
+angrily: 1
+rearing
+itself: 1
+upright: 1
+as: 81
+it: 139
+spoke: 4
+it: 139
+was: 143
+exactly: 2
+three: 6
+inches: 5
+high
+
+In: 1
+minute: 6
+or: 89
+two: 11
+the: 653
+Caterpillar: 7
+got: 14
+down: 45
+off: 22
+the: 653
+mushroom: 6
+and
+crawled: 1
+away: 13
+into: 36
+the: 653
+grass: 2
+merely: 1
+remarking: 2
+as: 81
+it: 139
+went: 21
+One: 2
+side
+will: 1
+make: 8
+you: 128
+grow: 7
+taller: 2
+and: 337
+the: 653
+other: 26
+side: 7
+will: 10
+make: 8
+you: 128
+grow
+shorter
+
+One: 1
+side: 7
+of: 268
+what: 22
+The: 38
+other: 26
+side: 7
+of: 268
+what: 22
+thought: 18
+Alice: 113
+to
+herself
+
+Of: 1
+the: 653
+mushroom: 6
+said: 137
+the: 653
+Caterpillar: 7
+just: 16
+as: 81
+if: 27
+she: 177
+had: 56
+asked: 3
+it
+aloud: 1
+and: 337
+in: 195
+another: 8
+moment: 10
+it: 139
+was: 143
+out: 50
+of: 268
+sight
+
+Alice: 1
+remained: 2
+looking: 8
+thoughtfully: 1
+at: 77
+the: 653
+mushroom: 6
+for: 58
+minute: 6
+trying
+to: 1
+make: 8
+out: 50
+which: 25
+were: 28
+the: 653
+two: 11
+sides: 2
+of: 268
+it: 139
+At: 3
+last: 15
+she: 177
+stretched: 2
+her
+arms: 1
+round: 13
+it: 139
+as: 81
+far: 4
+as: 81
+they: 27
+would: 8
+go: 18
+and: 337
+broke: 1
+off: 22
+bit: 7
+of: 268
+the: 653
+edge
+with: 1
+each: 3
+hand
+
+And: 1
+now: 14
+which: 25
+is: 54
+which: 25
+she: 177
+said: 137
+to: 289
+herself: 24
+and: 337
+nibbled: 2
+little: 46
+of
+the: 5
+righthand: 1
+bit: 7
+to: 289
+try: 2
+the: 653
+effect: 1
+The: 38
+next: 11
+moment: 10
+she: 177
+felt: 6
+violent
+blow: 1
+underneath: 1
+her: 87
+chinit: 1
+had: 56
+struck: 2
+her: 87
+foot
+
+She: 1
+was: 143
+good: 8
+deal: 5
+frightened: 3
+by: 45
+this: 69
+very: 34
+sudden: 2
+change: 5
+as: 81
+she: 177
+was
+shrinking: 1
+rapidly: 2
+so: 27
+she: 177
+set: 14
+to: 289
+work: 44
+at: 77
+once: 9
+to: 289
+eat: 6
+some: 17
+of: 268
+the: 653
+other
+bit: 1
+Her: 2
+chin: 3
+was: 143
+pressed: 2
+so: 27
+closely: 1
+against: 4
+her: 87
+foot: 5
+that: 89
+there: 14
+was
+hardly: 1
+room: 6
+to: 289
+open: 4
+her: 87
+mouth: 3
+but: 33
+she: 177
+did: 12
+it: 139
+at: 77
+last: 15
+and: 337
+managed: 1
+to
+swallow: 1
+morsel: 1
+of: 268
+the: 653
+lefthand: 2
+bit
+
+Come: 1
+my: 16
+heads: 3
+free: 4
+at: 77
+last: 15
+said: 137
+Alice: 113
+but: 33
+all: 62
+she: 177
+could: 24
+see: 18
+when
+she: 1
+looked: 16
+down: 45
+was: 143
+an: 21
+immense: 1
+length: 1
+of: 268
+neck: 5
+which: 25
+seemed: 9
+to: 289
+rise
+like: 1
+stalk: 1
+out: 50
+of: 268
+sea: 2
+of: 268
+green: 1
+leaves: 2
+that: 89
+lay: 1
+far: 4
+below: 2
+her
+
+Where: 1
+have: 20
+my: 16
+shoulders: 1
+got: 14
+to: 289
+And: 10
+oh: 1
+my: 16
+poor: 8
+hands: 5
+how: 12
+is: 54
+it: 139
+I
+cant: 1
+see: 18
+you: 128
+She: 27
+was: 143
+delighted: 2
+to: 289
+find: 12
+that: 89
+her: 87
+neck: 5
+would: 8
+bend
+about: 1
+easily: 1
+in: 195
+any: 41
+direction: 3
+like: 31
+serpent: 3
+She: 27
+had: 56
+just: 16
+succeeded: 1
+in
+curving: 1
+it: 139
+down: 45
+into: 36
+graceful: 1
+zigzag: 1
+and: 337
+was: 143
+going: 7
+to: 289
+dive: 1
+in: 195
+among
+the: 1
+leaves: 2
+when: 28
+sharp: 2
+hiss: 1
+made: 11
+her: 87
+draw: 1
+back: 13
+in: 195
+hurrya: 1
+large
+pigeon: 1
+had: 56
+flown: 1
+into: 36
+her: 87
+face: 4
+and: 337
+was: 143
+beating: 1
+her: 87
+violently: 2
+with: 99
+its
+wings
+
+Illustration
+
+Serpent: 1
+cried: 10
+the: 653
+Pigeon
+
+Im: 1
+not: 56
+serpent: 3
+said: 137
+Alice: 113
+indignantly: 2
+Let: 3
+me: 24
+alone
+
+Ive: 1
+tried: 6
+the: 653
+roots: 1
+of: 268
+trees: 3
+and: 337
+Ive: 6
+tried: 6
+banks: 1
+and: 337
+Ive: 6
+tried
+hedges: 1
+the: 653
+Pigeon: 3
+went: 21
+on: 66
+but: 33
+those: 6
+serpents: 2
+Theres: 2
+no: 28
+pleasing
+them
+
+Alice: 1
+was: 143
+more: 17
+and: 337
+more: 17
+puzzled
+
+As: 1
+if: 27
+it: 139
+wasnt: 1
+trouble: 2
+enough: 5
+hatching: 1
+the: 653
+eggs: 3
+said: 137
+the: 653
+Pigeon
+but: 1
+must: 21
+be: 44
+on: 66
+the: 653
+lookout: 1
+for: 58
+serpents: 2
+night: 1
+and: 337
+day: 4
+And: 10
+just: 16
+as
+Id: 1
+taken: 1
+the: 653
+highest: 1
+tree: 4
+in: 195
+the: 653
+wood: 4
+continued: 2
+the: 653
+Pigeon: 3
+raising
+its: 1
+voice: 16
+to: 289
+shriek: 2
+and: 337
+just: 16
+as: 81
+was: 143
+thinking: 3
+should: 11
+be: 44
+free: 4
+of
+them: 2
+at: 77
+last: 15
+they: 27
+must: 21
+needs: 1
+come: 7
+wriggling: 1
+down: 45
+from: 25
+the: 653
+sky: 1
+Ugh
+Serpent
+
+But: 1
+Im: 12
+not: 56
+serpent: 3
+tell: 9
+you: 128
+said: 137
+Alice: 113
+Im: 12
+aIm: 2
+aIm: 2
+a
+little: 5
+girl: 2
+she: 177
+added: 7
+rather: 6
+doubtfully: 1
+as: 81
+she: 177
+remembered: 1
+the: 653
+number
+of: 1
+changes: 1
+she: 177
+had: 56
+gone: 5
+through: 8
+that: 89
+day
+
+Youre: 1
+looking: 8
+for: 58
+eggs: 3
+know: 17
+that: 89
+well: 15
+enough: 5
+said: 137
+the: 653
+Pigeon
+and: 1
+what: 22
+does: 3
+it: 139
+matter: 1
+to: 289
+me: 24
+whether: 4
+youre: 4
+little: 46
+girl: 2
+or: 89
+a
+serpent
+
+It: 1
+matters: 1
+good: 8
+deal: 5
+to: 289
+me: 24
+said: 137
+Alice: 113
+hastily: 7
+but: 33
+Im: 12
+not
+looking: 1
+for: 58
+eggs: 3
+as: 81
+it: 139
+happens: 1
+and: 337
+if: 27
+was: 143
+shouldnt: 1
+want
+yoursI: 1
+dont: 13
+like: 31
+them: 25
+raw
+
+Well: 1
+be: 44
+off: 22
+then: 17
+said: 137
+the: 653
+Pigeon: 3
+in: 195
+sulky: 1
+tone: 10
+as: 81
+it: 139
+settled
+down: 1
+again: 18
+into: 36
+its: 27
+nest: 1
+Alice: 113
+crouched: 1
+down: 45
+among: 7
+the: 653
+trees: 3
+as: 81
+well: 15
+as
+she: 3
+could: 24
+for: 58
+her: 87
+neck: 5
+kept: 6
+getting: 7
+entangled: 2
+among: 7
+the: 653
+branches: 1
+and
+every: 1
+now: 14
+and: 337
+then: 17
+she: 177
+had: 56
+to: 289
+stop: 1
+and: 337
+untwist: 1
+it: 139
+After: 3
+awhile: 2
+she
+remembered: 1
+that: 89
+she: 177
+still: 3
+held: 2
+the: 653
+pieces: 1
+of: 268
+mushroom: 6
+in: 195
+her: 87
+hands: 5
+and
+she: 2
+set: 14
+to: 289
+work: 44
+very: 34
+carefully: 1
+nibbling: 2
+first: 12
+at: 77
+one: 27
+and: 337
+then: 17
+at: 77
+the
+other: 1
+and: 337
+growing: 4
+sometimes: 2
+taller: 2
+and: 337
+sometimes: 2
+shorter: 1
+until: 3
+she: 177
+had
+succeeded: 1
+in: 195
+bringing: 1
+herself: 24
+down: 45
+to: 289
+her: 87
+usual: 2
+height
+
+It: 1
+was: 143
+so: 27
+long: 12
+since: 3
+she: 177
+had: 56
+been: 10
+anything: 5
+near: 9
+the: 653
+right: 9
+size: 8
+that: 89
+it
+felt: 1
+quite: 15
+strange: 2
+at: 77
+first: 12
+The: 38
+next: 11
+thing: 14
+is: 54
+to: 289
+get: 18
+into: 36
+that
+beautiful: 1
+gardenhow: 1
+is: 54
+that: 89
+to: 289
+be: 44
+done: 4
+wonder: 5
+As: 4
+she: 177
+said: 137
+this
+she: 1
+came: 23
+suddenly: 7
+upon: 15
+an: 21
+open: 4
+place: 2
+with: 99
+little: 46
+house: 11
+in: 195
+it: 139
+about
+four: 1
+feet: 12
+high: 10
+Whoever: 1
+lives: 2
+there: 14
+thought: 18
+Alice: 113
+itll: 2
+never: 8
+do: 38
+to
+come: 1
+upon: 15
+them: 25
+this: 69
+size: 8
+why: 5
+should: 11
+frighten: 1
+them: 25
+out: 50
+of: 268
+their
+wits: 1
+She: 27
+did: 12
+not: 56
+venture: 1
+to: 289
+go: 18
+near: 9
+the: 653
+house: 11
+till: 4
+she: 177
+had: 56
+brought
+herself: 1
+down: 45
+to: 289
+nine: 3
+inches: 5
+high
+
+
+
+
+VIPIG: 1
+AND: 4
+PEPPER
+
+
+For: 1
+minute: 6
+or: 89
+two: 11
+she: 177
+stood: 5
+looking: 8
+at: 77
+the: 653
+house: 11
+when: 28
+suddenly: 7
+a
+footman: 1
+in: 195
+livery: 2
+came: 23
+running: 4
+out: 50
+of: 268
+the: 653
+wood: 4
+judging: 1
+by: 45
+his: 15
+face
+only: 1
+she: 177
+would: 8
+have: 20
+called: 9
+him: 4
+fishand: 1
+rapped: 1
+loudly: 2
+at: 77
+the: 653
+door
+with: 1
+his: 15
+knuckles: 1
+It: 10
+was: 143
+opened: 6
+by: 45
+another: 8
+footman: 1
+in: 195
+livery: 2
+with: 99
+a
+round: 1
+face: 4
+and: 337
+large: 18
+eyes: 9
+like: 31
+frog
+
+Illustration
+
+The: 1
+FishFootman: 2
+began: 12
+by: 45
+producing: 1
+from: 25
+under: 12
+his: 15
+arm: 9
+great: 15
+letter
+and: 1
+this: 69
+he: 19
+handed: 2
+over: 11
+to: 289
+the: 653
+other: 26
+saying: 2
+in: 195
+solemn: 2
+tone: 10
+For: 4
+the
+Duchess: 1
+An: 1
+invitation: 1
+from: 25
+the: 653
+Queen: 23
+to: 289
+play: 4
+croquet: 5
+The
+FrogFootman: 1
+repeated: 2
+in: 195
+the: 653
+same: 10
+solemn: 2
+tone: 10
+From: 1
+the: 653
+Queen: 23
+An
+invitation: 1
+for: 58
+the: 653
+Duchess: 17
+to: 289
+play: 4
+croquet: 5
+Then: 4
+they: 27
+both: 4
+bowed: 2
+low
+and: 1
+their: 8
+curls: 1
+got: 14
+entangled: 2
+together
+
+When: 1
+Alice: 113
+next: 11
+peeped: 3
+out: 50
+the: 653
+FishFootman: 2
+was: 143
+gone: 5
+and: 337
+the: 653
+other: 26
+was
+sitting: 1
+on: 66
+the: 653
+ground: 1
+near: 9
+the: 653
+door: 18
+staring: 1
+stupidly: 1
+up: 36
+into: 36
+the: 653
+sky
+Alice: 1
+went: 21
+timidly: 4
+up: 36
+to: 289
+the: 653
+door: 18
+and: 337
+knocked
+
+Theres: 1
+no: 28
+sort: 4
+of: 268
+use: 12
+in: 195
+knocking: 1
+said: 137
+the: 653
+Footman: 2
+and: 337
+that: 89
+for
+two: 1
+reasons: 1
+First: 4
+because: 4
+Im: 12
+on: 66
+the: 653
+same: 10
+side: 7
+of: 268
+the: 653
+door: 18
+as: 81
+you: 128
+are
+secondly: 1
+because: 4
+theyre: 4
+making: 2
+such: 16
+noise: 2
+inside: 1
+no: 28
+one: 27
+could
+possibly: 1
+hear: 5
+you: 128
+And: 10
+certainly: 3
+there: 14
+was: 143
+most: 4
+extraordinary: 1
+noise
+going: 1
+on: 66
+withina: 1
+constant: 2
+howling: 2
+and: 337
+sneezing: 4
+and: 337
+every: 2
+now: 14
+and: 337
+then
+a: 1
+great: 15
+crash: 2
+as: 81
+if: 27
+dish: 2
+or: 89
+kettle: 1
+had: 56
+been: 10
+broken: 3
+to: 289
+pieces
+
+How: 1
+am: 6
+to: 289
+get: 18
+in: 195
+asked: 3
+Alice
+
+Are: 1
+you: 128
+to: 289
+get: 18
+in: 195
+at: 77
+all: 62
+said: 137
+the: 653
+Footman: 2
+Thats: 4
+the: 653
+first
+question: 1
+you: 128
+know
+
+Alice: 1
+opened: 6
+the: 653
+door: 18
+and: 337
+went: 21
+in: 195
+The: 38
+door: 18
+led: 3
+right: 9
+into: 36
+large
+kitchen: 1
+which: 25
+was: 143
+full: 13
+of: 268
+smoke: 1
+from: 25
+one: 27
+end: 5
+to: 289
+the: 653
+other: 26
+the: 653
+Duchess
+was: 1
+sitting: 4
+on: 66
+threelegged: 1
+stool: 1
+in: 195
+the: 653
+middle: 2
+nursing: 1
+baby: 5
+the
+cook: 1
+was: 143
+leaning: 1
+over: 11
+the: 653
+fire: 2
+stirring: 1
+large: 18
+caldron: 2
+which: 25
+seemed: 9
+to
+be: 1
+full: 13
+of: 268
+soup
+
+Theres: 1
+certainly: 3
+too: 8
+much: 11
+pepper: 1
+in: 195
+that: 89
+soup: 2
+Alice: 113
+said: 137
+to: 289
+herself
+as: 1
+well: 15
+as: 81
+she: 177
+could: 24
+for: 58
+sneezing: 4
+Even: 1
+the: 653
+Duchess: 17
+sneezed
+occasionally: 1
+and: 337
+as: 81
+for: 58
+the: 653
+baby: 5
+it: 139
+was: 143
+sneezing: 4
+and: 337
+howling
+alternately: 1
+without: 12
+moments: 1
+pause: 1
+The: 38
+only: 14
+two: 11
+creatures: 2
+in: 195
+the
+kitchen: 1
+that: 89
+did: 12
+not: 56
+sneeze: 1
+were: 28
+the: 653
+cook: 4
+and: 337
+large: 18
+cat: 5
+which: 25
+was
+grinning: 1
+from: 25
+ear: 2
+to: 289
+ear
+
+Please: 1
+would: 8
+you: 128
+tell: 9
+me: 24
+said: 137
+Alice: 113
+little: 46
+timidly: 4
+why: 5
+your: 22
+cat
+grins: 1
+like: 31
+that
+
+Its: 1
+CheshireCat: 3
+said: 137
+the: 653
+Duchess: 17
+and: 337
+thats: 3
+why
+
+I: 1
+didnt: 4
+know: 17
+that: 89
+CheshireCats: 1
+always: 2
+grinned: 2
+in: 195
+fact: 2
+didnt: 4
+know
+that: 1
+cats: 6
+could: 24
+grin: 1
+said: 137
+Alice
+
+You: 1
+dont: 13
+know: 17
+much: 11
+said: 137
+the: 653
+Duchess: 17
+and: 337
+thats: 3
+fact
+
+Just: 1
+then: 17
+the: 653
+cook: 4
+took: 12
+the: 653
+caldron: 2
+of: 268
+soup: 2
+off: 22
+the: 653
+fire: 2
+and: 337
+at: 77
+once
+set: 1
+to: 289
+work: 44
+throwing: 1
+everything: 2
+within: 5
+her: 87
+reach: 2
+at: 77
+the: 653
+Duchess: 17
+and: 337
+the
+babythe: 1
+fireirons: 1
+came: 23
+first: 12
+then: 17
+followed: 4
+shower: 2
+of: 268
+saucepans
+plates: 1
+and: 337
+dishes: 1
+The: 38
+Duchess: 17
+took: 12
+no: 28
+notice: 5
+of: 268
+them: 25
+even: 3
+when: 28
+they
+hit: 1
+her: 87
+and: 337
+the: 653
+baby: 5
+was: 143
+howling: 2
+so: 27
+much: 11
+already: 2
+that: 89
+it: 139
+was: 143
+quite
+impossible: 1
+to: 289
+say: 12
+whether: 4
+the: 653
+blows: 1
+hurt: 3
+it: 139
+or: 89
+not
+
+Oh: 1
+please: 9
+mind: 6
+what: 22
+youre: 4
+doing: 3
+cried: 10
+Alice: 113
+jumping: 2
+up: 36
+and: 337
+down
+in: 1
+an: 21
+agony: 1
+of: 268
+terror
+
+Here: 1
+You: 14
+may: 16
+nurse: 1
+it: 139
+bit: 7
+if: 27
+you: 128
+like: 31
+the: 653
+Duchess: 17
+said: 137
+to: 289
+Alice
+flinging: 1
+the: 653
+baby: 5
+at: 77
+her: 87
+as: 81
+she: 177
+spoke: 4
+must: 21
+go: 18
+and: 337
+get: 18
+ready: 2
+to: 289
+play
+croquet: 1
+with: 99
+the: 653
+Queen: 23
+and: 337
+she: 177
+hurried: 5
+out: 50
+of: 268
+the: 653
+room
+
+Alice: 1
+caught: 2
+the: 653
+baby: 5
+with: 99
+some: 17
+difficulty: 1
+as: 81
+it: 139
+was: 143
+queershaped
+little: 1
+creature: 3
+and: 337
+held: 2
+out: 50
+its: 27
+arms: 3
+and: 337
+legs: 2
+in: 195
+all: 62
+directions: 2
+If: 17
+I
+dont: 1
+take: 5
+this: 69
+child: 2
+away: 13
+with: 99
+me: 24
+thought: 18
+Alice: 113
+theyre: 4
+sure: 4
+to
+kill: 1
+it: 139
+in: 195
+day: 4
+or: 89
+two: 11
+Wouldnt: 1
+it: 139
+be: 44
+murder: 1
+to: 289
+leave: 4
+it: 139
+behind: 3
+She
+said: 1
+the: 653
+last: 15
+words: 6
+out: 50
+loud: 1
+and: 337
+the: 653
+little: 46
+thing: 14
+grunted: 2
+in: 195
+reply
+
+If: 1
+youre: 4
+going: 7
+to: 289
+turn: 1
+into: 36
+pig: 1
+my: 16
+dear: 10
+said: 137
+Alice: 113
+Ill: 9
+have
+nothing: 1
+more: 17
+to: 289
+do: 38
+with: 99
+you: 128
+Mind: 1
+now
+
+Alice: 1
+was: 143
+just: 16
+beginning: 3
+to: 289
+think: 14
+to: 289
+herself: 24
+Now: 4
+what: 22
+am: 6
+to: 289
+do: 38
+with
+this: 1
+creature: 3
+when: 28
+get: 18
+it: 139
+home: 2
+when: 28
+it: 139
+grunted: 2
+again: 18
+so: 27
+violently
+that: 1
+Alice: 113
+looked: 16
+down: 45
+into: 36
+its: 27
+face: 4
+in: 195
+some: 17
+alarm: 1
+This: 6
+time: 18
+there
+could: 1
+be: 44
+no: 28
+mistake: 2
+about: 35
+itit: 1
+was: 143
+neither: 2
+more: 17
+nor: 2
+less: 2
+than: 9
+pig
+so: 1
+she: 177
+set: 14
+the: 653
+little: 46
+creature: 3
+down: 45
+and: 337
+felt: 6
+quite: 15
+relieved: 1
+to: 289
+see: 18
+it
+trot: 1
+away: 13
+quietly: 2
+into: 36
+the: 653
+wood
+
+Alice: 1
+was: 143
+little: 46
+startled: 2
+by: 45
+seeing: 1
+the: 653
+CheshireCat: 3
+sitting: 4
+on: 66
+a
+bough: 1
+of: 268
+tree: 4
+few: 3
+yards: 1
+off: 22
+The: 38
+Cat: 5
+only: 14
+grinned: 2
+when: 28
+it: 139
+saw: 5
+her
+CheshirePuss: 1
+began: 12
+Alice: 113
+rather: 6
+timidly: 4
+would: 8
+you: 128
+please: 9
+tell: 9
+me
+which: 1
+way: 18
+ought: 3
+to: 289
+go: 18
+from: 25
+here
+
+In: 1
+that: 89
+direction: 3
+the: 653
+Cat: 5
+said: 137
+waving: 2
+the: 653
+right: 9
+paw: 2
+round: 13
+lives
+a: 1
+Hatter: 10
+and: 337
+in: 195
+that: 89
+direction: 3
+waving: 2
+the: 653
+other: 26
+paw: 2
+lives: 2
+March
+Hare: 1
+Visit: 1
+either: 6
+you: 128
+like: 31
+theyre: 4
+both: 4
+mad
+
+But: 1
+dont: 13
+want: 2
+to: 289
+go: 18
+among: 7
+mad: 2
+people: 7
+Alice: 113
+remarked
+
+Oh: 1
+you: 128
+cant: 5
+help: 5
+that: 89
+said: 137
+the: 653
+Cat: 5
+were: 28
+all: 62
+mad: 2
+here: 13
+Do: 5
+you
+play: 1
+croquet: 5
+with: 99
+the: 653
+Queen: 23
+today
+
+I: 1
+should: 11
+like: 31
+it: 139
+very: 34
+much: 11
+said: 137
+Alice: 113
+but: 33
+havent: 2
+been: 10
+invited
+yet
+
+Youll: 1
+see: 18
+me: 24
+there: 14
+said: 137
+the: 653
+Cat: 5
+and: 337
+vanished
+
+Alice: 1
+had: 56
+not: 56
+gone: 5
+much: 11
+farther: 1
+before: 11
+she: 177
+came: 23
+in: 195
+sight: 2
+of: 268
+the: 653
+house: 11
+of
+the: 5
+March: 6
+Hare: 5
+it: 139
+was: 143
+so: 27
+large: 18
+house: 11
+that: 89
+she: 177
+did: 12
+not: 56
+like: 31
+to: 289
+go: 18
+near
+till: 1
+she: 177
+had: 56
+nibbled: 2
+some: 17
+more: 17
+of: 268
+the: 653
+lefthand: 2
+bit: 7
+of: 268
+mushroom
+
+
+
+
+VIIA: 1
+MAD: 1
+TEAPARTY
+
+
+There: 1
+was: 143
+table: 11
+set: 14
+out: 50
+under: 12
+tree: 4
+in: 195
+front: 2
+of: 268
+the: 653
+house: 11
+and: 337
+the
+March: 2
+Hare: 5
+and: 337
+the: 653
+Hatter: 10
+were: 28
+having: 3
+tea: 3
+at: 77
+it: 139
+Dormouse: 6
+was: 143
+sitting
+between: 1
+them: 25
+fast: 1
+asleep
+
+The: 1
+table: 11
+was: 143
+large: 18
+one: 27
+but: 33
+the: 653
+three: 6
+were: 28
+all: 62
+crowded: 4
+together: 2
+at
+one: 1
+corner: 3
+of: 268
+it: 139
+No: 2
+room: 6
+No: 2
+room: 6
+they: 27
+cried: 10
+out: 50
+when: 28
+they: 27
+saw: 5
+Alice
+coming: 1
+Theres: 2
+plenty: 1
+of: 268
+room: 6
+said: 137
+Alice: 113
+indignantly: 2
+and: 337
+she: 177
+sat
+down: 1
+in: 195
+large: 18
+armchair: 1
+at: 77
+one: 27
+end: 5
+of: 268
+the: 653
+table
+
+The: 1
+Hatter: 10
+opened: 6
+his: 15
+eyes: 9
+very: 34
+wide: 1
+on: 66
+hearing: 2
+this: 69
+but: 33
+all: 62
+he: 19
+said
+was: 1
+Why: 4
+is: 54
+raven: 1
+like: 31
+writingdesk
+
+Im: 1
+glad: 3
+theyve: 1
+begun: 1
+asking: 3
+riddlesI: 1
+believe: 3
+can: 17
+guess: 1
+that: 89
+she
+added: 1
+aloud
+
+Do: 1
+you: 128
+mean: 5
+that: 89
+you: 128
+think: 14
+you: 128
+can: 17
+find: 12
+out: 50
+the: 653
+answer: 2
+to: 289
+it: 139
+said: 137
+the
+March: 2
+Hare
+
+Exactly: 1
+so: 27
+said: 137
+Alice
+
+Then: 1
+you: 128
+should: 11
+say: 12
+what: 22
+you: 128
+mean: 5
+the: 653
+March: 6
+Hare: 5
+went: 21
+on
+
+I: 1
+do: 38
+Alice: 113
+hastily: 7
+replied: 6
+at: 77
+leastat: 1
+least: 2
+mean: 5
+what: 22
+I
+saythats: 1
+the: 653
+same: 10
+thing: 14
+you: 128
+know
+
+You: 1
+might: 7
+just: 16
+as: 81
+well: 15
+say: 12
+added: 7
+the: 653
+Dormouse: 6
+which: 25
+seemed: 9
+to: 289
+be
+talking: 1
+in: 195
+its: 27
+sleep: 4
+that: 89
+breathe: 1
+when: 28
+sleep: 4
+is: 54
+the: 653
+same: 10
+thing
+as: 1
+sleep: 4
+when: 28
+breathe
+
+It: 1
+is: 54
+the: 653
+same: 10
+thing: 14
+with: 99
+you: 128
+said: 137
+the: 653
+Hatter: 10
+and: 337
+he: 19
+poured: 1
+a
+little: 5
+hot: 2
+tea: 3
+upon: 15
+its: 27
+nose: 1
+The: 38
+Dormouse: 6
+shook: 2
+its: 27
+head: 12
+impatiently
+and: 1
+said: 137
+without: 12
+opening: 1
+its: 27
+eyes: 9
+Of: 2
+course: 7
+of: 268
+course: 7
+just: 16
+what: 22
+I
+was: 1
+going: 7
+to: 289
+remark: 1
+myself
+
+Illustration
+
+Have: 1
+you: 128
+guessed: 2
+the: 653
+riddle: 1
+yet: 5
+the: 653
+Hatter: 10
+said: 137
+turning: 6
+to: 289
+Alice
+again
+
+No: 1
+give: 6
+it: 139
+up: 36
+Alice: 113
+replied: 6
+Whats: 1
+the: 653
+answer
+
+I: 1
+havent: 2
+the: 653
+slightest: 1
+idea: 7
+said: 137
+the: 653
+Hatter
+
+Nor: 1
+said: 137
+the: 653
+March: 6
+Hare
+
+Alice: 1
+gave: 4
+weary: 1
+sigh: 1
+think: 14
+you: 128
+might: 7
+do: 38
+something: 10
+better: 3
+with: 99
+the
+time: 2
+she: 177
+said: 137
+than: 9
+wasting: 1
+it: 139
+in: 195
+asking: 3
+riddles: 1
+that: 89
+have: 20
+no
+answers
+
+Take: 1
+some: 17
+more: 17
+tea: 3
+the: 653
+March: 6
+Hare: 5
+said: 137
+to: 289
+Alice: 113
+very: 34
+earnestly
+
+Ive: 1
+had: 56
+nothing: 7
+yet: 5
+Alice: 113
+replied: 6
+in: 195
+an: 21
+offended: 4
+tone: 10
+so: 27
+cant
+take: 1
+more
+
+You: 2
+mean: 5
+you: 128
+cant: 5
+take: 5
+less: 2
+said: 137
+the: 653
+Hatter: 10
+its: 27
+very: 34
+easy: 2
+to
+take: 1
+more: 17
+than: 9
+nothing
+
+At: 1
+this: 69
+Alice: 113
+got: 14
+up: 36
+and: 337
+walked: 6
+off: 22
+The: 38
+Dormouse: 6
+fell: 5
+asleep: 1
+instantly
+and: 1
+neither: 2
+of: 268
+the: 653
+others: 1
+took: 12
+the: 653
+least: 2
+notice: 5
+of: 268
+her: 87
+going: 7
+though: 2
+she
+looked: 1
+back: 13
+once: 9
+or: 89
+twice: 2
+the: 653
+last: 15
+time: 18
+she: 177
+saw: 5
+them: 25
+they: 27
+were
+trying: 1
+to: 289
+put: 9
+the: 653
+Dormouse: 6
+into: 36
+the: 653
+teapot
+
+Illustration: 1
+The: 38
+Trial: 1
+of: 268
+the: 653
+Knave: 5
+of: 268
+Hearts
+
+At: 1
+any: 41
+rate: 6
+Ill: 9
+never: 8
+go: 18
+there: 14
+again: 18
+said: 137
+Alice: 113
+as: 81
+she: 177
+picked
+her: 1
+way: 18
+through: 8
+the: 653
+wood: 4
+Its: 3
+the: 653
+stupidest: 1
+teaparty: 1
+ever: 6
+was: 143
+at: 77
+in
+all: 1
+my: 16
+life: 1
+Just: 1
+as: 81
+she: 177
+said: 137
+this: 69
+she: 177
+noticed: 6
+that: 89
+one: 27
+of: 268
+the: 653
+trees
+had: 1
+door: 18
+leading: 1
+right: 9
+into: 36
+it: 139
+Thats: 4
+very: 34
+curious: 6
+she: 177
+thought: 18
+I
+think: 1
+may: 16
+as: 81
+well: 15
+go: 18
+in: 195
+at: 77
+once: 9
+And: 10
+in: 195
+she: 177
+went
+
+Once: 1
+more: 17
+she: 177
+found: 19
+herself: 24
+in: 195
+the: 653
+long: 12
+hall: 7
+and: 337
+close: 2
+to: 289
+the: 653
+little
+glass: 1
+table: 11
+Taking: 1
+the: 653
+little: 46
+golden: 6
+key: 8
+she: 177
+unlocked: 1
+the: 653
+door: 18
+that
+led: 1
+into: 36
+the: 653
+garden: 12
+Then: 4
+she: 177
+set: 14
+to: 289
+work: 44
+nibbling: 2
+at: 77
+the: 653
+mushroom: 6
+she
+had: 1
+kept: 6
+piece: 4
+of: 268
+it: 139
+in: 195
+her: 87
+pocket: 1
+till: 4
+she: 177
+was: 143
+about: 35
+foot: 5
+high
+then: 1
+she: 177
+walked: 6
+down: 45
+the: 653
+little: 46
+passage: 3
+and: 337
+thenshe: 1
+found: 19
+herself
+at: 1
+last: 15
+in: 195
+the: 653
+beautiful: 1
+garden: 12
+among: 7
+the: 653
+bright: 4
+flowerbeds: 1
+and: 337
+the
+cool: 1
+fountains
+
+
+
+
+VIIITHE: 1
+QUEENS: 1
+CROQUET: 1
+GROUND
+
+
+A: 1
+large: 18
+rosetree: 2
+stood: 5
+near: 9
+the: 653
+entrance: 1
+of: 268
+the: 653
+garden: 12
+the: 653
+roses
+growing: 1
+on: 66
+it: 139
+were: 28
+white: 5
+but: 33
+there: 14
+were: 28
+three: 6
+gardeners: 2
+at: 77
+it: 139
+busily
+painting: 1
+them: 25
+red: 1
+Suddenly: 1
+their: 8
+eyes: 9
+chanced: 1
+to: 289
+fall: 4
+upon: 15
+Alice: 113
+as
+she: 3
+stood: 5
+watching: 1
+them: 25
+Would: 2
+you: 128
+tell: 9
+me: 24
+please: 9
+said: 137
+Alice: 113
+a
+little: 5
+timidly: 4
+why: 5
+you: 128
+are: 30
+painting: 1
+those: 6
+roses
+
+Five: 1
+and: 337
+Seven: 1
+said: 137
+nothing: 7
+but: 33
+looked: 16
+at: 77
+Two: 2
+Two: 2
+began: 12
+in: 195
+low
+voice: 1
+Why: 4
+the: 653
+fact: 2
+is: 54
+you: 128
+see: 18
+Miss: 2
+this: 69
+here: 13
+ought: 3
+to: 289
+have: 20
+been: 10
+a
+red: 1
+rosetree: 2
+and: 337
+we: 10
+put: 9
+white: 5
+one: 27
+in: 195
+by: 45
+mistake: 2
+and: 337
+if: 27
+the: 653
+Queen
+was: 1
+to: 289
+find: 12
+it: 139
+out: 50
+we: 10
+should: 11
+all: 62
+have: 20
+our: 9
+heads: 3
+cut: 1
+off: 22
+you: 128
+know: 17
+So
+you: 1
+see: 18
+Miss: 2
+were: 28
+doing: 3
+our: 9
+best: 4
+afore: 1
+she: 177
+comes: 2
+to: 289
+At: 3
+this
+moment: 1
+Five: 1
+who: 17
+had: 56
+been: 10
+anxiously: 4
+looking: 8
+across: 5
+the: 653
+garden: 12
+called
+out: 1
+The: 38
+Queen: 23
+The: 38
+Queen: 23
+and: 337
+the: 653
+three: 6
+gardeners: 2
+instantly: 1
+threw
+themselves: 1
+flat: 1
+upon: 15
+their: 8
+faces: 1
+There: 12
+was: 143
+sound: 2
+of: 268
+many: 4
+footsteps
+and: 1
+Alice: 113
+looked: 16
+round: 13
+eager: 1
+to: 289
+see: 18
+the: 653
+Queen
+
+First: 1
+came: 23
+ten: 5
+soldiers: 3
+carrying: 2
+clubs: 1
+with: 99
+their: 8
+hands: 5
+and: 337
+feet: 12
+at: 77
+the
+corners: 1
+next: 11
+the: 653
+ten: 5
+courtiers: 1
+these: 7
+were: 28
+ornamented: 2
+all: 62
+over: 11
+with
+diamonds: 1
+After: 3
+these: 7
+came: 23
+the: 653
+royal: 1
+children: 1
+there: 14
+were: 28
+ten: 5
+of: 268
+them
+all: 1
+ornamented: 2
+with: 99
+hearts: 1
+Next: 1
+came: 23
+the: 653
+guests: 1
+mostly: 2
+Kings: 2
+and
+Queens: 1
+and: 337
+among: 7
+them: 25
+Alice: 113
+recognized: 1
+the: 653
+White: 13
+Rabbit: 25
+Then: 4
+followed
+the: 1
+Knave: 5
+of: 268
+Hearts: 5
+carrying: 2
+the: 653
+Kings: 2
+crown: 2
+on: 66
+crimson: 1
+velvet
+cushion: 1
+and: 337
+last: 15
+of: 268
+all: 62
+this: 69
+grand: 1
+procession: 2
+came: 23
+THE: 8
+KING: 1
+AND: 4
+THE
+QUEEN: 1
+OF: 12
+HEARTS
+
+When: 1
+the: 653
+procession: 2
+came: 23
+opposite: 1
+to: 289
+Alice: 113
+they: 27
+all: 62
+stopped: 2
+and: 337
+looked
+at: 1
+her: 87
+and: 337
+the: 653
+Queen: 23
+said: 137
+severely: 3
+Who: 2
+is: 54
+this: 69
+She: 27
+said: 137
+it: 139
+to: 289
+the
+Knave: 1
+of: 268
+Hearts: 5
+who: 17
+only: 14
+bowed: 2
+and: 337
+smiled: 1
+in: 195
+reply
+
+My: 1
+name: 5
+is: 54
+Alice: 113
+so: 27
+please: 9
+Your: 4
+Majesty: 5
+said: 137
+Alice: 113
+very: 34
+politely
+but: 1
+she: 177
+added: 7
+to: 289
+herself: 24
+Why: 4
+theyre: 4
+only: 14
+pack: 4
+of: 268
+cards: 2
+after
+all
+
+Can: 1
+you: 128
+play: 4
+croquet: 5
+shouted: 4
+the: 653
+Queen: 23
+The: 38
+question: 7
+was: 143
+evidently
+meant: 1
+for: 58
+Alice
+
+Yes: 1
+said: 137
+Alice: 113
+loudly
+
+Come: 1
+on: 66
+then: 17
+roared: 1
+the: 653
+Queen
+
+Itsits: 1
+very: 34
+fine: 1
+day: 4
+said: 137
+timid: 2
+voice: 16
+to: 289
+Alice: 113
+She: 27
+was
+walking: 1
+by: 45
+the: 653
+White: 13
+Rabbit: 25
+who: 17
+was: 143
+peeping: 1
+anxiously: 4
+into: 36
+her: 87
+face
+
+Very: 1
+said: 137
+Alice: 113
+Wheres: 2
+the: 653
+Duchess
+
+Hush: 1
+Hush: 1
+said: 137
+the: 653
+Rabbit: 25
+Shes: 1
+under: 12
+sentence: 4
+of: 268
+execution
+
+What: 1
+for: 58
+said: 137
+Alice
+
+She: 1
+boxed: 1
+the: 653
+Queens: 1
+ears: 2
+the: 653
+Rabbit: 25
+began
+
+Get: 1
+to: 289
+your: 22
+places: 1
+shouted: 4
+the: 653
+Queen: 23
+in: 195
+voice: 16
+of: 268
+thunder: 1
+and
+people: 1
+began: 12
+running: 4
+about: 35
+in: 195
+all: 62
+directions: 2
+tumbling: 1
+up: 36
+against: 4
+each
+other: 1
+However: 5
+they: 27
+got: 14
+settled: 2
+down: 45
+in: 195
+minute: 6
+or: 89
+two: 11
+and: 337
+the: 653
+game
+began
+
+Alice: 1
+thought: 18
+she: 177
+had: 56
+never: 8
+seen: 2
+such: 16
+curious: 6
+croquetground: 1
+in: 195
+her
+life: 1
+it: 139
+was: 143
+all: 62
+ridges: 1
+and: 337
+furrows: 1
+The: 38
+croquet: 5
+balls: 1
+were: 28
+live
+hedgehogs: 1
+and: 337
+the: 653
+mallets: 1
+live: 1
+flamingos: 1
+and: 337
+the: 653
+soldiers: 3
+had: 56
+to: 289
+double
+themselves: 1
+up: 36
+and: 337
+stand: 1
+on: 66
+their: 8
+hands: 5
+and: 337
+feet: 12
+to: 289
+make: 8
+the: 653
+arches
+
+The: 1
+players: 3
+all: 62
+played: 1
+at: 77
+once: 9
+without: 12
+waiting: 3
+for: 58
+turns: 1
+quarrelling
+all: 1
+the: 653
+while: 3
+and: 337
+fighting: 1
+for: 58
+the: 653
+hedgehogs: 1
+and: 337
+in: 195
+very: 34
+short: 1
+time
+the: 1
+Queen: 23
+was: 143
+in: 195
+furious: 1
+passion: 1
+and: 337
+went: 21
+stamping: 2
+about: 35
+and: 337
+shouting
+Off: 1
+with: 99
+his: 15
+head: 12
+or: 89
+Off: 3
+with: 99
+her: 87
+head: 12
+about: 35
+once: 9
+in: 195
+minute
+
+Theyre: 1
+dreadfully: 2
+fond: 1
+of: 268
+beheading: 1
+people: 7
+here: 13
+thought: 18
+Alice: 113
+the
+great: 1
+wonder: 5
+is: 54
+that: 89
+theres: 6
+anyone: 5
+left: 6
+alive
+
+She: 1
+was: 143
+looking: 8
+about: 35
+for: 58
+some: 17
+way: 18
+of: 268
+escape: 3
+when: 28
+she: 177
+noticed: 6
+curious
+appearance: 1
+in: 195
+the: 653
+air: 5
+Its: 3
+the: 653
+CheshireCat: 3
+she: 177
+said: 137
+to: 289
+herself
+now: 1
+shall: 5
+have: 20
+somebody: 2
+to: 289
+talk: 5
+to
+
+How: 1
+are: 30
+you: 128
+getting: 7
+on: 66
+said: 137
+the: 653
+Cat
+
+I: 1
+dont: 13
+think: 14
+they: 27
+play: 4
+at: 77
+all: 62
+fairly: 1
+Alice: 113
+said: 137
+in: 195
+rather
+complaining: 1
+tone: 10
+and: 337
+they: 27
+all: 62
+quarrel: 1
+so: 27
+dreadfully: 2
+one: 27
+cant: 5
+hear
+oneself: 1
+speakand: 1
+they: 27
+dont: 13
+seem: 3
+to: 289
+have: 20
+any: 41
+rules: 3
+in: 195
+particular
+
+How: 1
+do: 38
+you: 128
+like: 31
+the: 653
+Queen: 23
+said: 137
+the: 653
+Cat: 5
+in: 195
+low: 9
+voice
+
+Not: 1
+at: 77
+all: 62
+said: 137
+Alice
+
+Illustration
+
+Alice: 1
+thought: 18
+she: 177
+might: 7
+as: 81
+well: 15
+go: 18
+back: 13
+and: 337
+see: 18
+how: 12
+the: 653
+game: 2
+was: 143
+going
+on: 1
+So: 4
+she: 177
+went: 21
+off: 22
+in: 195
+search: 1
+of: 268
+her: 87
+hedgehog: 3
+The: 38
+hedgehog: 3
+was: 143
+engaged
+in: 1
+fight: 1
+with: 99
+another: 8
+hedgehog: 3
+which: 25
+seemed: 9
+to: 289
+Alice: 113
+an: 21
+excellent
+opportunity: 1
+for: 58
+croqueting: 1
+one: 27
+of: 268
+them: 25
+with: 99
+the: 653
+other: 26
+the: 653
+only
+difficulty: 1
+was: 143
+that: 89
+her: 87
+flamingo: 2
+was: 143
+gone: 5
+across: 5
+to: 289
+the: 653
+other: 26
+side: 7
+of
+the: 5
+garden: 12
+where: 5
+Alice: 113
+could: 24
+see: 18
+it: 139
+trying: 4
+in: 195
+helpless: 1
+sort: 4
+of: 268
+way
+to: 1
+fly: 1
+up: 36
+into: 36
+tree: 4
+She: 27
+caught: 2
+the: 653
+flamingo: 2
+and: 337
+tucked: 2
+it: 139
+away: 13
+under
+her: 1
+arm: 9
+that: 89
+it: 139
+might: 7
+not: 56
+escape: 3
+again
+
+Just: 1
+then: 17
+Alice: 113
+ran: 9
+across: 5
+the: 653
+Duchess: 17
+who: 17
+was: 143
+now: 14
+out: 50
+of: 268
+prison: 1
+She
+tucked: 1
+her: 87
+arm: 9
+affectionately: 2
+into: 36
+Alices: 7
+and: 337
+they: 27
+walked: 6
+off: 22
+together
+Alice: 1
+was: 143
+very: 34
+glad: 3
+to: 289
+find: 12
+her: 87
+in: 195
+such: 16
+pleasant: 1
+temper: 2
+She: 27
+was: 143
+a
+little: 5
+startled: 2
+however: 1
+when: 28
+she: 177
+heard: 17
+the: 653
+voice: 16
+of: 268
+the: 653
+Duchess: 17
+close
+to: 2
+her: 87
+ear: 2
+Youre: 2
+thinking: 3
+about: 35
+something: 10
+my: 16
+dear: 10
+and: 337
+that: 89
+makes
+you: 1
+forget: 1
+to: 289
+talk
+
+The: 1
+games: 1
+going: 7
+on: 66
+rather: 6
+better: 3
+now: 14
+Alice: 113
+said: 137
+by: 45
+way: 18
+of: 268
+keeping
+up: 1
+the: 653
+conversation: 1
+little
+
+Tis: 1
+so: 27
+said: 137
+the: 653
+Duchess: 17
+and: 337
+the: 653
+moral: 2
+of: 268
+that: 89
+isOh: 1
+tis: 1
+love
+tis: 1
+love: 1
+that: 89
+makes: 3
+the: 653
+world: 6
+go: 18
+round
+
+Somebody: 1
+said: 137
+Alice: 113
+whispered: 1
+that: 89
+its: 27
+done: 4
+by: 45
+everybody: 1
+minding
+his: 1
+own: 2
+business
+
+Ah: 1
+well: 15
+It: 10
+means: 4
+much: 11
+the: 653
+same: 10
+thing: 14
+said: 137
+the: 653
+Duchess: 17
+digging: 1
+her
+sharp: 1
+little: 46
+chin: 3
+into: 36
+Alices: 7
+shoulder: 1
+as: 81
+she: 177
+added: 7
+and: 337
+the: 653
+moral: 2
+of
+that: 2
+isTake: 1
+care: 3
+of: 268
+the: 653
+sense: 1
+and: 337
+the: 653
+sounds: 1
+will: 10
+take: 5
+care: 3
+of
+themselves
+
+To: 1
+Alices: 7
+great: 15
+surprise: 1
+the: 653
+Duchesss: 2
+arm: 9
+that: 89
+was: 143
+linked: 2
+into: 36
+hers
+began: 1
+to: 289
+tremble: 1
+Alice: 113
+looked: 16
+up: 36
+and: 337
+there: 14
+stood: 5
+the: 653
+Queen: 23
+in: 195
+front: 2
+of
+them: 2
+with: 99
+her: 87
+arms: 3
+folded: 1
+frowning: 1
+like: 31
+thunderstorm
+
+Now: 1
+give: 6
+you: 128
+fair: 1
+warning: 1
+shouted: 4
+the: 653
+Queen: 23
+stamping: 2
+on: 66
+the
+ground: 1
+as: 81
+she: 177
+spoke: 4
+either: 6
+you: 128
+or: 89
+your: 22
+head: 12
+must: 21
+be: 44
+off: 22
+and: 337
+that: 89
+in
+about: 1
+half: 9
+no: 28
+time: 18
+Take: 1
+your: 22
+choice: 2
+The: 38
+Duchess: 17
+took: 12
+her: 87
+choice: 2
+and
+was: 1
+gone: 5
+in: 195
+moment
+
+Lets: 1
+go: 18
+on: 66
+with: 99
+the: 653
+game: 2
+the: 653
+Queen: 23
+said: 137
+to: 289
+Alice: 113
+and: 337
+Alice: 113
+was: 143
+too
+much: 1
+frightened: 3
+to: 289
+say: 12
+word: 2
+but: 33
+slowly: 4
+followed: 4
+her: 87
+back: 13
+to: 289
+the
+croquetground
+
+All: 1
+the: 653
+time: 18
+they: 27
+were: 28
+playing: 1
+the: 653
+Queen: 23
+never: 8
+left: 6
+off: 22
+quarreling: 1
+with
+the: 2
+other: 26
+players: 3
+and: 337
+shouting: 1
+Off: 3
+with: 99
+his: 15
+head: 12
+or: 89
+Off: 3
+with: 99
+her
+head: 2
+By: 2
+the: 653
+end: 5
+of: 268
+half: 9
+an: 21
+hour: 2
+or: 89
+so: 27
+all: 62
+the: 653
+players: 3
+except: 2
+the
+King: 1
+the: 653
+Queen: 23
+and: 337
+Alice: 113
+were: 28
+in: 195
+custody: 1
+of: 268
+the: 653
+soldiers: 3
+and: 337
+under
+sentence: 1
+of: 268
+execution
+
+Then: 1
+the: 653
+Queen: 23
+left: 6
+off: 22
+quite: 15
+out: 50
+of: 268
+breath: 1
+and: 337
+walked: 6
+away: 13
+with
+Alice
+
+Alice: 1
+heard: 17
+the: 653
+King: 17
+say: 12
+in: 195
+low: 9
+voice: 16
+to: 289
+the: 653
+company: 1
+generally: 3
+You
+are: 1
+all: 62
+pardoned
+
+Suddenly: 1
+the: 653
+cry: 2
+The: 38
+Trials: 1
+beginning: 3
+was: 143
+heard: 17
+in: 195
+the: 653
+distance: 2
+and
+Alice: 2
+ran: 9
+along: 4
+with: 99
+the: 653
+others
+
+
+
+
+IXWHO: 1
+STOLE: 1
+THE: 8
+TARTS
+
+
+The: 1
+King: 17
+and: 337
+Queen: 23
+of: 268
+Hearts: 5
+were: 28
+seated: 1
+on: 66
+their: 8
+throne: 1
+when: 28
+they
+arrived: 1
+with: 99
+great: 15
+crowd: 2
+assembled: 2
+about: 35
+themall: 1
+sorts: 1
+of: 268
+little
+birds: 1
+and: 337
+beasts: 1
+as: 81
+well: 15
+as: 81
+the: 653
+whole: 5
+pack: 4
+of: 268
+cards: 2
+the: 653
+Knave: 5
+was
+standing: 1
+before: 11
+them: 25
+in: 195
+chains: 1
+with: 99
+soldier: 1
+on: 66
+each: 3
+side: 7
+to: 289
+guard
+him: 1
+and: 337
+near: 9
+the: 653
+King: 17
+was: 143
+the: 653
+White: 13
+Rabbit: 25
+with: 99
+trumpet: 3
+in: 195
+one: 27
+hand
+and: 2
+scroll: 1
+of: 268
+parchment: 1
+in: 195
+the: 653
+other: 26
+In: 4
+the: 653
+very: 34
+middle: 2
+of: 268
+the: 653
+court
+was: 1
+table: 11
+with: 99
+large: 18
+dish: 2
+of: 268
+tarts: 2
+upon: 15
+it: 139
+wish: 8
+theyd: 1
+get: 18
+the
+trial: 1
+done: 4
+Alice: 113
+thought: 18
+and: 337
+hand: 6
+round: 13
+the: 653
+refreshments
+
+The: 1
+judge: 1
+by: 45
+the: 653
+way: 18
+was: 143
+the: 653
+King: 17
+and: 337
+he: 19
+wore: 1
+his: 15
+crown: 2
+over: 11
+his: 15
+great
+wig: 1
+Thats: 4
+the: 653
+jurybox: 2
+thought: 18
+Alice: 113
+and: 337
+those: 6
+twelve: 1
+creatures
+some: 1
+were: 28
+animals: 4
+and: 337
+some: 17
+were: 28
+birds: 4
+suppose: 2
+they: 27
+are: 30
+the: 653
+jurors
+
+Just: 1
+then: 17
+the: 653
+White: 13
+Rabbit: 25
+cried: 10
+out: 50
+Silence: 2
+in: 195
+the: 653
+court
+
+Herald: 1
+read: 7
+the: 653
+accusation: 1
+said: 137
+the: 653
+King
+
+Illustration
+
+On: 1
+this: 69
+the: 653
+White: 13
+Rabbit: 25
+blew: 2
+three: 6
+blasts: 1
+on: 66
+the: 653
+trumpet: 3
+then
+unrolled: 1
+the: 653
+parchmentscroll: 1
+and: 337
+read: 7
+as: 81
+follows
+
+: 1
+: 847
+: 847
+: 847
+The: 38
+Queen: 23
+of: 268
+Hearts: 5
+she: 177
+made: 11
+some: 17
+tarts
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+All: 2
+on: 66
+summer: 1
+day
+: 1
+: 847
+: 847
+: 847
+The: 38
+Knave: 5
+of: 268
+Hearts: 5
+he: 19
+stole: 1
+those: 6
+tarts
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+And: 10
+took: 12
+them: 25
+quite: 15
+away
+
+Call: 1
+the: 653
+first: 12
+witness: 5
+said: 137
+the: 653
+King: 17
+and: 337
+the: 653
+White: 13
+Rabbit: 25
+blew: 2
+three
+blasts: 1
+on: 66
+the: 653
+trumpet: 3
+and: 337
+called: 9
+out: 50
+First: 4
+witness
+
+The: 1
+first: 12
+witness: 5
+was: 143
+the: 653
+Hatter: 10
+He: 2
+came: 23
+in: 195
+with: 99
+teacup: 3
+in: 195
+one: 27
+hand
+and: 2
+piece: 4
+of: 268
+bread: 2
+and: 337
+butter: 2
+in: 195
+the: 653
+other
+
+You: 1
+ought: 3
+to: 289
+have: 20
+finished: 3
+said: 137
+the: 653
+King: 17
+When: 3
+did: 12
+you: 128
+begin
+
+The: 1
+Hatter: 10
+looked: 16
+at: 77
+the: 653
+March: 6
+Hare: 5
+who: 17
+had: 56
+followed: 4
+him: 4
+into: 36
+the
+court: 1
+arm: 9
+in: 195
+arm: 9
+with: 99
+the: 653
+Dormouse: 6
+Fourteenth: 1
+of: 268
+March: 6
+think: 14
+it
+was: 2
+he: 19
+said
+
+Give: 1
+your: 22
+evidence: 4
+said: 137
+the: 653
+King: 17
+and: 337
+dont: 13
+be: 44
+nervous: 1
+or: 89
+Ill: 9
+have
+you: 1
+executed: 2
+on: 66
+the: 653
+spot
+
+This: 1
+did: 12
+not: 56
+seem: 3
+to: 289
+encourage: 1
+the: 653
+witness: 5
+at: 77
+all: 62
+he: 19
+kept: 6
+shifting: 1
+from
+one: 1
+foot: 5
+to: 289
+the: 653
+other: 26
+looking: 8
+uneasily: 1
+at: 77
+the: 653
+Queen: 23
+and: 337
+in: 195
+his
+confusion: 1
+he: 19
+bit: 7
+large: 18
+piece: 4
+out: 50
+of: 268
+his: 15
+teacup: 3
+instead: 1
+of: 268
+the: 653
+bread
+and: 1
+butter
+
+Just: 1
+at: 77
+this: 69
+moment: 10
+Alice: 113
+felt: 6
+very: 34
+curious: 6
+sensationshe: 1
+was
+beginning: 1
+to: 289
+grow: 7
+larger: 4
+again
+
+The: 1
+miserable: 1
+Hatter: 10
+dropped: 4
+his: 15
+teacup: 3
+and: 337
+bread: 2
+and: 337
+butter: 2
+and: 337
+went
+down: 1
+on: 66
+one: 27
+knee: 1
+Im: 12
+poor: 8
+man: 2
+Your: 4
+Majesty: 5
+he: 19
+began
+
+Youre: 1
+very: 34
+poor: 8
+speaker: 1
+said: 137
+the: 653
+King
+
+You: 1
+may: 16
+go: 18
+said: 137
+the: 653
+King: 17
+and: 337
+the: 653
+Hatter: 10
+hurriedly: 2
+left: 6
+the: 653
+court
+
+Call: 1
+the: 653
+next: 11
+witness: 5
+said: 137
+the: 653
+King
+
+The: 1
+next: 11
+witness: 5
+was: 143
+the: 653
+Duchesss: 2
+cook: 4
+She: 27
+carried: 1
+the: 653
+pepperbox: 1
+in
+her: 1
+hand: 6
+and: 337
+the: 653
+people: 7
+near: 9
+the: 653
+door: 18
+began: 12
+sneezing: 4
+all: 62
+at: 77
+once
+
+Give: 1
+your: 22
+evidence: 4
+said: 137
+the: 653
+King
+
+Shant: 1
+said: 137
+the: 653
+cook
+
+The: 1
+King: 17
+looked: 16
+anxiously: 4
+at: 77
+the: 653
+White: 13
+Rabbit: 25
+who: 17
+said: 137
+in: 195
+low: 9
+voice
+Your: 1
+Majesty: 5
+must: 21
+crossexamine: 1
+this: 69
+witness
+
+Well: 1
+if: 27
+must: 21
+must: 21
+the: 653
+King: 17
+said: 137
+What: 3
+are: 30
+tarts: 2
+made: 11
+of
+
+Pepper: 1
+mostly: 2
+said: 137
+the: 653
+cook
+
+For: 1
+some: 17
+minutes: 4
+the: 653
+whole: 5
+court: 2
+was: 143
+in: 195
+confusion: 2
+and: 337
+by: 45
+the: 653
+time: 18
+they
+had: 1
+settled: 2
+down: 45
+again: 18
+the: 653
+cook: 4
+had: 56
+disappeared
+
+Never: 1
+mind: 6
+said: 137
+the: 653
+King: 17
+call: 2
+the: 653
+next: 11
+witness
+
+Alice: 1
+watched: 1
+the: 653
+White: 13
+Rabbit: 25
+as: 81
+he: 19
+fumbled: 1
+over: 11
+the: 653
+list: 1
+Imagine: 1
+her
+surprise: 1
+when: 28
+he: 19
+read: 7
+out: 50
+at: 77
+the: 653
+top: 4
+of: 268
+his: 15
+shrill: 2
+little: 46
+voice: 16
+the
+name: 1
+Alice
+
+
+
+
+XALICES: 1
+EVIDENCE
+
+
+Here: 1
+cried: 10
+Alice: 113
+She: 27
+jumped: 2
+up: 36
+in: 195
+such: 16
+hurry: 4
+that: 89
+she: 177
+tipped: 1
+over
+the: 1
+jurybox: 2
+upsetting: 1
+all: 62
+the: 653
+jurymen: 2
+on: 66
+to: 289
+the: 653
+heads: 3
+of: 268
+the: 653
+crowd
+below
+
+Oh: 1
+beg: 3
+your: 22
+pardon: 3
+she: 177
+exclaimed: 1
+in: 195
+tone: 10
+of: 268
+great: 15
+dismay
+
+The: 1
+trial: 2
+cannot: 4
+proceed: 1
+said: 137
+the: 653
+King: 17
+until: 3
+all: 62
+the: 653
+jurymen: 2
+are
+back: 1
+in: 195
+their: 8
+proper: 1
+placesall: 1
+he: 19
+repeated: 2
+with: 99
+great: 15
+emphasis
+looking: 1
+hard: 5
+at: 77
+Alice
+
+What: 1
+do: 38
+you: 128
+know: 17
+about: 35
+this: 69
+business: 3
+the: 653
+King: 17
+said: 137
+to: 289
+Alice
+
+Nothing: 1
+whatever: 1
+said: 137
+Alice
+
+The: 2
+King: 17
+then: 17
+read: 7
+from: 25
+his: 15
+book: 3
+Rule: 1
+fortytwo: 1
+All: 2
+persons: 1
+more
+than: 1
+mile: 2
+high: 10
+to: 289
+leave: 4
+the: 653
+court
+
+Im: 1
+not: 56
+mile: 2
+high: 10
+said: 137
+Alice
+
+Nearly: 1
+two: 11
+miles: 1
+high: 10
+said: 137
+the: 653
+Queen
+
+Illustration
+
+Well: 1
+shant: 3
+go: 18
+at: 77
+any: 41
+rate: 6
+said: 137
+Alice
+
+The: 2
+King: 17
+turned: 7
+pale: 2
+and: 337
+shut: 3
+his: 15
+notebook: 1
+hastily: 7
+Consider: 1
+your
+verdict: 1
+he: 19
+said: 137
+to: 289
+the: 653
+jury: 2
+in: 195
+low: 9
+trembling: 4
+voice
+
+Theres: 1
+more: 17
+evidence: 4
+to: 289
+come: 7
+yet: 5
+please: 9
+Your: 4
+Majesty: 5
+said: 137
+the: 653
+White
+Rabbit: 2
+jumping: 2
+up: 36
+in: 195
+great: 15
+hurry: 4
+This: 6
+paper: 3
+has: 4
+just: 16
+been: 10
+picked
+up: 1
+It: 10
+seems: 2
+to: 289
+be: 44
+letter: 2
+written: 3
+by: 45
+the: 653
+prisoner: 1
+toto: 1
+somebody: 2
+He
+unfolded: 1
+the: 653
+paper: 3
+as: 81
+he: 19
+spoke: 4
+and: 337
+added: 7
+It: 10
+isnt: 1
+letter: 2
+after: 8
+all
+its: 1
+set: 14
+of: 268
+verses
+
+Please: 1
+Your: 4
+Majesty: 5
+said: 137
+the: 653
+Knave: 5
+didnt: 4
+write: 1
+it: 139
+and: 337
+they
+cant: 1
+prove: 1
+that: 89
+did: 12
+theres: 6
+no: 28
+name: 5
+signed: 2
+at: 77
+the: 653
+end
+
+You: 1
+must: 21
+have: 20
+meant: 1
+some: 17
+mischief: 1
+or: 89
+else: 1
+youd: 1
+have: 20
+signed: 2
+your
+name: 1
+like: 31
+an: 21
+honest: 1
+man: 2
+said: 137
+the: 653
+King: 17
+There: 12
+was: 143
+general: 2
+clapping: 1
+of
+hands: 1
+at: 77
+this
+
+Read: 1
+them: 25
+he: 19
+added: 7
+turning: 6
+to: 289
+the: 653
+White: 13
+Rabbit
+
+There: 1
+was: 143
+dead: 1
+silence: 3
+in: 195
+the: 653
+court: 2
+whilst: 1
+the: 653
+White: 13
+Rabbit: 25
+read: 7
+out: 50
+the
+verses
+
+Thats: 1
+the: 653
+most: 4
+important: 3
+piece: 4
+of: 268
+evidence: 4
+weve: 1
+heard: 17
+yet: 5
+said: 137
+the
+King
+
+I: 1
+dont: 13
+believe: 3
+theres: 6
+an: 21
+atom: 1
+of: 268
+meaning: 3
+in: 195
+it: 139
+ventured: 1
+Alice
+
+If: 1
+theres: 6
+no: 28
+meaning: 3
+in: 195
+it: 139
+said: 137
+the: 653
+King: 17
+that: 89
+saves: 1
+world: 6
+of
+trouble: 1
+you: 128
+know: 17
+as: 81
+we: 10
+neednt: 1
+try: 2
+to: 289
+find: 12
+any: 41
+Let: 3
+the: 653
+jury: 2
+consider
+their: 1
+verdict
+
+No: 1
+no: 28
+said: 137
+the: 653
+Queen: 23
+Sentence: 1
+firstverdict: 1
+afterwards
+
+Stuff: 1
+and: 337
+nonsense: 2
+said: 137
+Alice: 113
+loudly: 2
+The: 38
+idea: 7
+of: 268
+having: 3
+the
+sentence: 1
+first
+
+Hold: 1
+your: 22
+tongue: 1
+said: 137
+the: 653
+Queen: 23
+turning: 6
+purple
+
+I: 1
+wont: 4
+said: 137
+Alice
+
+Off: 1
+with: 99
+her: 87
+head: 12
+the: 653
+Queen: 23
+shouted: 4
+at: 77
+the: 653
+top: 4
+of: 268
+her: 87
+voice: 16
+Nobody
+moved
+
+Who: 1
+cares: 1
+for: 58
+you: 128
+said: 137
+Alice: 113
+she: 177
+had: 56
+grown: 1
+to: 289
+her: 87
+full: 13
+size: 8
+by
+this: 1
+time: 18
+Youre: 2
+nothing: 7
+but: 33
+pack: 4
+of: 268
+cards
+
+Illustration
+
+At: 1
+this: 69
+the: 653
+whole: 5
+pack: 4
+rose: 1
+up: 36
+in: 195
+the: 653
+air: 5
+and: 337
+came: 23
+flying: 1
+down: 45
+upon
+her: 1
+she: 177
+gave: 4
+little: 46
+scream: 1
+half: 9
+of: 268
+fright: 2
+and: 337
+half: 9
+of: 268
+anger: 2
+and
+tried: 1
+to: 289
+beat: 1
+them: 25
+off: 22
+and: 337
+found: 19
+herself: 24
+lying: 3
+on: 66
+the: 653
+bank: 1
+with: 99
+her
+head: 2
+in: 195
+the: 653
+lap: 1
+of: 268
+her: 87
+sister: 4
+who: 17
+was: 143
+gently: 1
+brushing: 1
+away: 13
+some: 17
+dead
+leaves: 1
+that: 89
+had: 56
+fluttered: 1
+down: 45
+from: 25
+the: 653
+trees: 3
+upon: 15
+her: 87
+face
+
+Wake: 1
+up: 36
+Alice: 113
+dear: 10
+said: 137
+her: 87
+sister: 4
+Why: 4
+what: 22
+long: 12
+sleep: 4
+youve
+had
+
+Oh: 1
+Ive: 6
+had: 56
+such: 16
+curious: 6
+dream: 2
+said: 137
+Alice: 113
+And: 10
+she: 177
+told: 1
+her
+sister: 1
+as: 81
+well: 15
+as: 81
+she: 177
+could: 24
+remember: 3
+them: 25
+all: 62
+these: 7
+strange: 2
+adventures
+of: 1
+hers: 1
+that: 89
+you: 128
+have: 20
+just: 16
+been: 10
+reading: 3
+about: 35
+Alice: 113
+got: 14
+up: 36
+and: 337
+ran: 9
+off
+thinking: 1
+while: 3
+she: 177
+ran: 9
+as: 81
+well: 15
+she: 177
+might: 7
+what: 22
+wonderful: 1
+dream: 2
+it: 139
+had
+been
+
+Illustration
+
+
+
+
+
+
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+END: 1
+OF: 12
+THE: 8
+PROJECT: 4
+GUTENBERG: 3
+EBOOK: 2
+ALICES: 3
+ADVENTURES: 4
+IN: 6
+WONDERLAND: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+
+
+: 1
+: 847
+: 847
+: 847
+
+
+Updated: 1
+editions: 3
+will: 10
+replace: 1
+the: 653
+previous: 1
+one—the: 1
+old: 2
+editions: 3
+will
+be: 1
+renamed
+
+Creating: 1
+the: 653
+works: 20
+from: 25
+print: 1
+editions: 3
+not: 56
+protected: 4
+by: 45
+US: 6
+copyright
+law: 1
+means: 4
+that: 89
+no: 28
+one: 27
+owns: 2
+United: 11
+States: 9
+copyright: 15
+in: 195
+these: 7
+works
+so: 1
+the: 653
+Foundation: 17
+and: 337
+you: 128
+can: 17
+copy: 12
+and: 337
+distribute: 5
+it: 139
+in: 195
+the: 653
+United
+States: 3
+without: 12
+permission: 6
+and: 337
+without: 12
+paying: 3
+copyright
+royalties: 1
+Special: 1
+rules: 3
+set: 14
+forth: 6
+in: 195
+the: 653
+General: 3
+Terms: 2
+of: 268
+Use: 2
+part
+of: 1
+this: 69
+license: 4
+apply: 1
+to: 289
+copying: 4
+and: 337
+distributing: 6
+Project
+Gutenberg™: 8
+electronic: 20
+works: 20
+to: 289
+protect: 2
+the: 653
+PROJECT: 4
+GUTENBERG™
+concept: 1
+and: 337
+trademark: 8
+Project: 60
+Gutenberg: 17
+is: 54
+registered: 2
+trademark
+and: 1
+may: 16
+not: 56
+be: 44
+used: 2
+if: 27
+you: 128
+charge: 6
+for: 58
+an: 21
+eBook: 7
+except: 2
+by: 45
+following
+the: 1
+terms: 17
+of: 268
+the: 653
+trademark: 8
+license: 4
+including: 5
+paying: 3
+royalties: 2
+for: 58
+use
+of: 1
+the: 653
+Project: 60
+Gutenberg: 17
+trademark: 8
+If: 17
+you: 128
+do: 38
+not: 56
+charge: 6
+anything: 5
+for
+copies: 1
+of: 268
+this: 69
+eBook: 7
+complying: 3
+with: 99
+the: 653
+trademark: 8
+license: 4
+is: 54
+very
+easy: 1
+You: 14
+may: 16
+use: 12
+this: 69
+eBook: 7
+for: 58
+nearly: 1
+any: 41
+purpose: 1
+such: 16
+as: 81
+creation
+of: 1
+derivative: 3
+works: 20
+reports: 1
+performances: 1
+and: 337
+research: 2
+Project
+Gutenberg: 3
+eBooks: 6
+may: 16
+be: 44
+modified: 1
+and: 337
+printed: 1
+and: 337
+given: 1
+away—you: 1
+may
+do: 1
+practically: 1
+ANYTHING: 1
+in: 195
+the: 653
+United: 11
+States: 9
+with: 99
+eBooks: 6
+not: 56
+protected
+by: 1
+US: 6
+copyright: 15
+law: 7
+Redistribution: 1
+is: 54
+subject: 3
+to: 289
+the: 653
+trademark
+license: 1
+especially: 1
+commercial: 1
+redistribution
+
+
+START: 1
+FULL: 2
+LICENSE
+
+THE: 1
+FULL: 2
+PROJECT: 4
+GUTENBERG: 3
+LICENSE
+
+PLEASE: 1
+READ: 1
+THIS: 3
+BEFORE: 1
+YOU: 6
+DISTRIBUTE: 1
+OR: 5
+USE: 1
+THIS: 3
+WORK
+
+To: 1
+protect: 2
+the: 653
+Project: 60
+Gutenberg™: 34
+mission: 3
+of: 268
+promoting: 1
+the: 653
+free
+distribution: 1
+of: 268
+electronic: 20
+works: 20
+by: 45
+using: 6
+or: 89
+distributing: 6
+this: 69
+work
+or: 1
+any: 41
+other: 26
+work: 44
+associated: 7
+in: 195
+any: 41
+way: 18
+with: 99
+the: 653
+phrase: 3
+“Project
+Gutenberg”: 2
+you: 128
+agree: 6
+to: 289
+comply: 4
+with: 99
+all: 62
+the: 653
+terms: 17
+of: 268
+the: 653
+Full
+Project: 1
+Gutenberg™: 34
+License: 8
+available: 2
+with: 99
+this: 69
+file: 1
+or: 89
+online: 2
+at
+wwwgutenbergorglicense
+
+Section: 1
+General: 3
+Terms: 2
+of: 268
+Use: 2
+and: 337
+Redistributing: 1
+Project: 60
+Gutenberg™
+electronic: 5
+works
+
+1A: 1
+By: 2
+reading: 3
+or: 89
+using: 6
+any: 41
+part: 3
+of: 268
+this: 69
+Project: 60
+Gutenberg™
+electronic: 5
+work: 44
+you: 128
+indicate: 1
+that: 89
+you: 128
+have: 20
+read: 7
+understand: 3
+agree: 6
+to
+and: 1
+accept: 1
+all: 62
+the: 653
+terms: 17
+of: 268
+this: 69
+license: 4
+and: 337
+intellectual: 1
+property
+trademarkcopyright: 1
+agreement: 13
+If: 17
+you: 128
+do: 38
+not: 56
+agree: 6
+to: 289
+abide: 1
+by: 45
+all
+the: 1
+terms: 17
+of: 268
+this: 69
+agreement: 13
+you: 128
+must: 21
+cease: 1
+using: 6
+and: 337
+return: 3
+or
+destroy: 1
+all: 62
+copies: 6
+of: 268
+Project: 60
+Gutenberg™: 34
+electronic: 20
+works: 20
+in: 195
+your
+possession: 1
+If: 17
+you: 128
+paid: 5
+fee: 8
+for: 58
+obtaining: 2
+copy: 12
+of: 268
+or: 89
+access: 8
+to: 289
+a
+Project: 1
+Gutenberg™: 34
+electronic: 20
+work: 44
+and: 337
+you: 128
+do: 38
+not: 56
+agree: 6
+to: 289
+be: 44
+bound
+by: 1
+the: 653
+terms: 17
+of: 268
+this: 69
+agreement: 13
+you: 128
+may: 16
+obtain: 2
+refund: 8
+from: 25
+the: 653
+person
+or: 2
+entity: 3
+to: 289
+whom: 1
+you: 128
+paid: 5
+the: 653
+fee: 8
+as: 81
+set: 14
+forth: 6
+in: 195
+paragraph: 9
+1E8
+
+1B: 1
+“Project: 3
+Gutenberg”: 3
+is: 54
+registered: 2
+trademark: 8
+It: 10
+may: 16
+only: 14
+be
+used: 1
+on: 66
+or: 89
+associated: 7
+in: 195
+any: 41
+way: 18
+with: 99
+an: 21
+electronic: 20
+work: 44
+by: 45
+people: 7
+who
+agree: 1
+to: 289
+be: 44
+bound: 1
+by: 45
+the: 653
+terms: 17
+of: 268
+this: 69
+agreement: 13
+There: 12
+are: 30
+few
+things: 1
+that: 89
+you: 128
+can: 17
+do: 38
+with: 99
+most: 4
+Project: 60
+Gutenberg™: 34
+electronic: 20
+works
+even: 1
+without: 12
+complying: 3
+with: 99
+the: 653
+full: 13
+terms: 17
+of: 268
+this: 69
+agreement: 13
+See
+paragraph: 1
+1C: 1
+below: 2
+There: 12
+are: 30
+lot: 1
+of: 268
+things: 4
+you: 128
+can: 17
+do: 38
+with: 99
+Project
+Gutenberg™: 8
+electronic: 20
+works: 20
+if: 27
+you: 128
+follow: 1
+the: 653
+terms: 17
+of: 268
+this
+agreement: 2
+and: 337
+help: 5
+preserve: 1
+free: 4
+future: 2
+access: 8
+to: 289
+Project: 60
+Gutenberg™
+electronic: 5
+works: 20
+See: 1
+paragraph: 9
+1E: 1
+below
+
+1C: 1
+The: 38
+Project: 60
+Gutenberg: 17
+Literary: 9
+Archive: 10
+Foundation: 17
+“the
+Foundation”: 1
+or: 89
+PGLAF: 1
+owns: 2
+compilation: 1
+copyright: 15
+in: 195
+the: 653
+collection
+of: 1
+Project: 60
+Gutenberg™: 34
+electronic: 20
+works: 20
+Nearly: 1
+all: 62
+the: 653
+individual
+works: 1
+in: 195
+the: 653
+collection: 3
+are: 30
+in: 195
+the: 653
+public: 2
+domain: 2
+in: 195
+the: 653
+United
+States: 3
+If: 17
+an: 21
+individual: 3
+work: 44
+is: 54
+unprotected: 1
+by: 45
+copyright: 15
+law: 7
+in: 195
+the
+United: 1
+States: 9
+and: 337
+you: 128
+are: 30
+located: 6
+in: 195
+the: 653
+United: 11
+States: 9
+we: 10
+do: 38
+not
+claim: 1
+right: 9
+to: 289
+prevent: 1
+you: 128
+from: 25
+copying: 4
+distributing: 6
+performing
+displaying: 1
+or: 89
+creating: 3
+derivative: 3
+works: 20
+based: 2
+on: 66
+the: 653
+work: 44
+as: 81
+long: 12
+as
+all: 1
+references: 2
+to: 289
+Project: 60
+Gutenberg: 17
+are: 30
+removed: 2
+Of: 2
+course: 7
+we: 10
+hope
+that: 1
+you: 128
+will: 10
+support: 3
+the: 653
+Project: 60
+Gutenberg™: 34
+mission: 3
+of: 268
+promoting
+free: 1
+access: 8
+to: 289
+electronic: 20
+works: 20
+by: 45
+freely: 2
+sharing: 1
+Project: 60
+Gutenberg™
+works: 1
+in: 195
+compliance: 4
+with: 99
+the: 653
+terms: 17
+of: 268
+this: 69
+agreement: 13
+for: 58
+keeping: 2
+the
+Project: 1
+Gutenberg™: 34
+name: 5
+associated: 7
+with: 99
+the: 653
+work: 44
+You: 14
+can: 17
+easily
+comply: 1
+with: 99
+the: 653
+terms: 17
+of: 268
+this: 69
+agreement: 13
+by: 45
+keeping: 2
+this: 69
+work: 44
+in: 195
+the
+same: 1
+format: 3
+with: 99
+its: 27
+attached: 1
+full: 13
+Project: 60
+Gutenberg™: 34
+License: 8
+when
+you: 1
+share: 1
+it: 139
+without: 12
+charge: 6
+with: 99
+others
+
+1D: 1
+The: 38
+copyright: 15
+laws: 8
+of: 268
+the: 653
+place: 2
+where: 5
+you: 128
+are: 30
+located: 6
+also: 2
+govern
+what: 1
+you: 128
+can: 17
+do: 38
+with: 99
+this: 69
+work: 44
+Copyright: 2
+laws: 8
+in: 195
+most: 4
+countries: 1
+are
+in: 1
+constant: 2
+state: 4
+of: 268
+change: 5
+If: 17
+you: 128
+are: 30
+outside: 2
+the: 653
+United: 11
+States
+check: 1
+the: 653
+laws: 8
+of: 268
+your: 22
+country: 3
+in: 195
+addition: 1
+to: 289
+the: 653
+terms: 17
+of: 268
+this
+agreement: 2
+before: 11
+downloading: 1
+copying: 4
+displaying: 2
+performing
+distributing: 1
+or: 89
+creating: 3
+derivative: 3
+works: 20
+based: 2
+on: 66
+this: 69
+work: 44
+or: 89
+any
+other: 1
+Project: 60
+Gutenberg™: 34
+work: 44
+The: 38
+Foundation: 17
+makes: 3
+no
+representations: 1
+concerning: 2
+the: 653
+copyright: 15
+status: 3
+of: 268
+any: 41
+work: 44
+in: 195
+any
+country: 1
+other: 26
+than: 9
+the: 653
+United: 11
+States
+
+1E: 1
+Unless: 1
+you: 128
+have: 20
+removed: 2
+all: 62
+references: 2
+to: 289
+Project: 60
+Gutenberg
+
+1E1: 1
+The: 38
+following: 3
+sentence: 4
+with: 99
+active: 1
+links: 3
+to: 289
+or: 89
+other
+immediate: 1
+access: 8
+to: 289
+the: 653
+full: 13
+Project: 60
+Gutenberg™: 34
+License: 8
+must: 21
+appear
+prominently: 1
+whenever: 1
+any: 41
+copy: 12
+of: 268
+Project: 60
+Gutenberg™: 34
+work: 44
+any: 41
+work
+on: 1
+which: 25
+the: 653
+phrase: 3
+“Project: 3
+Gutenberg”: 3
+appears: 1
+or: 89
+with: 99
+which: 25
+the
+phrase: 1
+“Project: 3
+Gutenberg”: 3
+is: 54
+associated: 7
+is: 54
+accessed: 1
+displayed
+performed: 1
+viewed: 1
+copied: 2
+or: 89
+distributed
+
+: 1
+: 847
+: 847
+: 847
+This: 6
+eBook: 7
+is: 54
+for: 58
+the: 653
+use: 12
+of: 268
+anyone: 5
+anywhere: 2
+in: 195
+the: 653
+United: 11
+States: 9
+and: 337
+most
+: 1
+: 847
+: 847
+: 847
+other: 26
+parts: 2
+of: 268
+the: 653
+world: 6
+at: 77
+no: 28
+cost: 3
+and: 337
+with: 99
+almost: 3
+no: 28
+restrictions
+: 1
+: 847
+: 847
+: 847
+whatsoever: 1
+You: 14
+may: 16
+copy: 12
+it: 139
+give: 6
+it: 139
+away: 13
+or: 89
+reuse: 2
+it: 139
+under: 12
+the: 653
+terms
+: 1
+: 847
+: 847
+: 847
+of: 268
+the: 653
+Project: 60
+Gutenberg: 17
+License: 8
+included: 3
+with: 99
+this: 69
+eBook: 7
+or: 89
+online
+: 1
+: 847
+: 847
+: 847
+at: 77
+wwwgutenbergorg: 2
+If: 17
+you
+: 2
+: 847
+: 847
+: 847
+are: 30
+not: 56
+located: 6
+in: 195
+the: 653
+United: 11
+States: 9
+you: 128
+will: 10
+have: 20
+to: 289
+check: 3
+the: 653
+laws
+: 1
+: 847
+: 847
+: 847
+of: 268
+the: 653
+country: 3
+where: 5
+you: 128
+are: 30
+located: 6
+before: 11
+using: 6
+this: 69
+eBook
+: 1
+: 847
+
+1E2: 1
+If: 17
+an: 21
+individual: 3
+Project: 60
+Gutenberg™: 34
+electronic: 20
+work: 44
+is
+derived: 1
+from: 25
+texts: 1
+not: 56
+protected: 4
+by: 45
+US: 6
+copyright: 15
+law: 7
+does: 3
+not
+contain: 1
+notice: 5
+indicating: 1
+that: 89
+it: 139
+is: 54
+posted: 2
+with: 99
+permission: 6
+of: 268
+the
+copyright: 1
+holder: 4
+the: 653
+work: 44
+can: 17
+be: 44
+copied: 2
+and: 337
+distributed: 2
+to: 289
+anyone: 5
+in
+the: 5
+United: 11
+States: 9
+without: 12
+paying: 3
+any: 41
+fees: 3
+or: 89
+charges: 1
+If: 17
+you: 128
+are
+redistributing: 1
+or: 89
+providing: 2
+access: 8
+to: 289
+work: 44
+with: 99
+the: 653
+phrase: 3
+“Project
+Gutenberg”: 2
+associated: 7
+with: 99
+or: 89
+appearing: 1
+on: 66
+the: 653
+work: 44
+you: 128
+must: 21
+comply
+either: 1
+with: 99
+the: 653
+requirements: 4
+of: 268
+paragraphs: 3
+1E1: 3
+through: 8
+1E7: 2
+or
+obtain: 1
+permission: 6
+for: 58
+the: 653
+use: 12
+of: 268
+the: 653
+work: 44
+and: 337
+the: 653
+Project: 60
+Gutenberg™
+trademark: 1
+as: 81
+set: 14
+forth: 6
+in: 195
+paragraphs: 3
+1E8: 2
+or: 89
+1E9
+
+1E3: 1
+If: 17
+an: 21
+individual: 3
+Project: 60
+Gutenberg™: 34
+electronic: 20
+work: 44
+is: 54
+posted
+with: 1
+the: 653
+permission: 6
+of: 268
+the: 653
+copyright: 15
+holder: 4
+your: 22
+use: 12
+and: 337
+distribution
+must: 1
+comply: 4
+with: 99
+both: 4
+paragraphs: 3
+1E1: 3
+through: 8
+1E7: 2
+and: 337
+any
+additional: 1
+terms: 17
+imposed: 1
+by: 45
+the: 653
+copyright: 15
+holder: 4
+Additional: 1
+terms
+will: 1
+be: 44
+linked: 2
+to: 289
+the: 653
+Project: 60
+Gutenberg™: 34
+License: 8
+for: 58
+all: 62
+works
+posted: 1
+with: 99
+the: 653
+permission: 6
+of: 268
+the: 653
+copyright: 15
+holder: 4
+found: 19
+at: 77
+the
+beginning: 1
+of: 268
+this: 69
+work
+
+1E4: 1
+Do: 5
+not: 56
+unlink: 1
+or: 89
+detach: 1
+or: 89
+remove: 1
+the: 653
+full: 13
+Project: 60
+Gutenberg™
+License: 1
+terms: 17
+from: 25
+this: 69
+work: 44
+or: 89
+any: 41
+files: 1
+containing: 1
+part: 3
+of: 268
+this
+work: 1
+or: 89
+any: 41
+other: 26
+work: 44
+associated: 7
+with: 99
+Project: 60
+Gutenberg™
+
+1E5: 1
+Do: 5
+not: 56
+copy: 12
+display: 1
+perform: 1
+distribute: 5
+or: 89
+redistribute: 1
+this
+electronic: 1
+work: 44
+or: 89
+any: 41
+part: 3
+of: 268
+this: 69
+electronic: 20
+work: 44
+without
+prominently: 1
+displaying: 2
+the: 653
+sentence: 4
+set: 14
+forth: 6
+in: 195
+paragraph: 9
+1E1: 3
+with
+active: 1
+links: 3
+or: 89
+immediate: 2
+access: 8
+to: 289
+the: 653
+full: 13
+terms: 17
+of: 268
+the: 653
+Project
+Gutenberg™: 8
+License
+
+1E6: 1
+You: 14
+may: 16
+convert: 1
+to: 289
+and: 337
+distribute: 5
+this: 69
+work: 44
+in: 195
+any: 41
+binary
+compressed: 1
+marked: 5
+up: 36
+nonproprietary: 1
+or: 89
+proprietary: 1
+form: 4
+including
+any: 1
+word: 2
+processing: 1
+or: 89
+hypertext: 1
+form: 4
+However: 5
+if: 27
+you: 128
+provide: 7
+access
+to: 1
+or: 89
+distribute: 5
+copies: 6
+of: 268
+Project: 60
+Gutenberg™: 34
+work: 44
+in: 195
+format
+other: 1
+than: 9
+“Plain: 1
+Vanilla: 1
+ASCII”: 2
+or: 89
+other: 26
+format: 3
+used: 2
+in: 195
+the: 653
+official
+version: 1
+posted: 2
+on: 66
+the: 653
+official: 2
+Project: 60
+Gutenberg™: 34
+website
+wwwgutenbergorg: 1
+you: 128
+must: 21
+at: 77
+no: 28
+additional: 1
+cost: 3
+fee: 8
+or: 89
+expense
+to: 1
+the: 653
+user: 3
+provide: 7
+copy: 12
+means: 4
+of: 268
+exporting: 1
+copy: 12
+or: 89
+means
+of: 1
+obtaining: 2
+copy: 12
+upon: 15
+request: 1
+of: 268
+the: 653
+work: 44
+in: 195
+its: 27
+original: 1
+“Plain
+Vanilla: 1
+ASCII”: 2
+or: 89
+other: 26
+form: 4
+Any: 1
+alternate: 1
+format: 3
+must: 21
+include: 1
+the
+full: 1
+Project: 60
+Gutenberg™: 34
+License: 8
+as: 81
+specified: 2
+in: 195
+paragraph: 9
+1E1
+
+1E7: 1
+Do: 5
+not: 56
+charge: 6
+fee: 8
+for: 58
+access: 8
+to: 289
+viewing: 1
+displaying
+performing: 1
+copying: 4
+or: 89
+distributing: 6
+any: 41
+Project: 60
+Gutenberg™: 34
+works
+unless: 1
+you: 128
+comply: 4
+with: 99
+paragraph: 9
+1E8: 2
+or: 89
+1E9
+
+1E8: 1
+You: 14
+may: 16
+charge: 6
+reasonable: 1
+fee: 8
+for: 58
+copies: 6
+of: 268
+or: 89
+providing
+access: 1
+to: 289
+or: 89
+distributing: 6
+Project: 60
+Gutenberg™: 34
+electronic: 20
+works
+provided: 1
+that
+
+: 1
+: 847
+: 847
+: 847
+•: 4
+You: 14
+pay: 1
+royalty: 1
+fee: 8
+of: 268
+20: 1
+of: 268
+the: 653
+gross: 1
+profits: 1
+you: 128
+derive: 1
+from
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+the: 653
+use: 12
+of: 268
+Project: 60
+Gutenberg™: 34
+works: 20
+calculated: 1
+using: 6
+the: 653
+method
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+you: 128
+already: 2
+use: 12
+to: 289
+calculate: 1
+your: 22
+applicable: 3
+taxes: 1
+The: 38
+fee: 8
+is: 54
+owed
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+to: 289
+the: 653
+owner: 3
+of: 268
+the: 653
+Project: 60
+Gutenberg™: 34
+trademark: 8
+but: 33
+he: 19
+has
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+agreed: 1
+to: 289
+donate: 1
+royalties: 2
+under: 12
+this: 69
+paragraph: 9
+to: 289
+the: 653
+Project
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Gutenberg: 17
+Literary: 9
+Archive: 10
+Foundation: 17
+Royalty: 1
+payments: 3
+must: 21
+be: 44
+paid
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+within: 5
+60: 1
+days: 4
+following: 3
+each: 3
+date: 3
+on: 66
+which: 25
+you: 128
+prepare: 2
+or: 89
+are
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+legally: 1
+required: 1
+to: 289
+prepare: 2
+your: 22
+periodic: 1
+tax: 6
+returns: 1
+Royalty
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+payments: 3
+should: 11
+be: 44
+clearly: 1
+marked: 5
+as: 81
+such: 16
+and: 337
+sent: 1
+to: 289
+the: 653
+Project
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Gutenberg: 17
+Literary: 9
+Archive: 10
+Foundation: 17
+at: 77
+the: 653
+address: 1
+specified: 2
+in
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Section: 2
+“Information: 1
+about: 35
+donations: 10
+to: 289
+the: 653
+Project: 60
+Gutenberg
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+Literary: 9
+Archive: 10
+Foundation”
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+You: 14
+provide: 7
+full: 13
+refund: 8
+of: 268
+any: 41
+money: 3
+paid: 5
+by: 45
+user: 3
+who: 17
+notifies
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+you: 128
+in: 195
+writing: 1
+or: 89
+by: 45
+email: 2
+within: 5
+30: 1
+days: 4
+of: 268
+receipt: 2
+that: 89
+she
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+does: 3
+not: 56
+agree: 6
+to: 289
+the: 653
+terms: 17
+of: 268
+the: 653
+full: 13
+Project: 60
+Gutenberg™
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+License: 8
+You: 14
+must: 21
+require: 1
+such: 16
+user: 3
+to: 289
+return: 3
+or: 89
+destroy: 1
+all
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+copies: 6
+of: 268
+the: 653
+works: 20
+possessed: 1
+in: 195
+physical: 2
+medium: 4
+and: 337
+discontinue
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+all: 62
+use: 12
+of: 268
+and: 337
+all: 62
+access: 8
+to: 289
+other: 26
+copies: 6
+of: 268
+Project: 60
+Gutenberg™
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+works
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+You: 14
+provide: 7
+in: 195
+accordance: 1
+with: 99
+paragraph: 9
+1F3: 4
+full: 13
+refund: 8
+of
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+any: 41
+money: 3
+paid: 5
+for: 58
+work: 44
+or: 89
+replacement: 3
+copy: 12
+if: 27
+defect: 1
+in: 195
+the
+: 4
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+electronic: 20
+work: 44
+is: 54
+discovered: 1
+and: 337
+reported: 1
+to: 289
+you: 128
+within: 5
+90: 2
+days: 4
+of
+: 2
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+receipt: 2
+of: 268
+the: 653
+work
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+You: 14
+comply: 4
+with: 99
+all: 62
+other: 26
+terms: 17
+of: 268
+this: 69
+agreement: 13
+for: 58
+free
+: 1
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+: 847
+distribution: 4
+of: 268
+Project: 60
+Gutenberg™: 34
+works
+: 2
+: 847
+: 847
+: 847
+
+
+1E9: 1
+If: 17
+you: 128
+wish: 8
+to: 289
+charge: 6
+fee: 8
+or: 89
+distribute: 5
+Project
+Gutenberg™: 8
+electronic: 20
+work: 44
+or: 89
+group: 1
+of: 268
+works: 20
+on: 66
+different: 2
+terms: 17
+than
+are: 1
+set: 14
+forth: 6
+in: 195
+this: 69
+agreement: 13
+you: 128
+must: 21
+obtain: 2
+permission: 6
+in: 195
+writing
+from: 1
+the: 653
+Project: 60
+Gutenberg: 17
+Literary: 9
+Archive: 10
+Foundation: 17
+the: 653
+manager: 1
+of
+the: 5
+Project: 60
+Gutenberg™: 34
+trademark: 8
+Contact: 1
+the: 653
+Foundation: 17
+as: 81
+set
+forth: 1
+in: 195
+Section: 2
+below
+
+1F
+
+1F1: 1
+Project: 60
+Gutenberg: 17
+volunteers: 4
+and: 337
+employees: 1
+expend: 1
+considerable
+effort: 1
+to: 289
+identify: 1
+do: 38
+copyright: 15
+research: 2
+on: 66
+transcribe: 1
+and: 337
+proofread
+works: 1
+not: 56
+protected: 4
+by: 45
+US: 6
+copyright: 15
+law: 7
+in: 195
+creating: 3
+the: 653
+Project
+Gutenberg™: 8
+collection: 3
+Despite: 1
+these: 7
+efforts: 3
+Project: 60
+Gutenberg™
+electronic: 5
+works: 20
+and: 337
+the: 653
+medium: 4
+on: 66
+which: 25
+they: 27
+may: 16
+be: 44
+stored: 1
+may
+contain: 1
+“Defects”: 1
+such: 16
+as: 81
+but: 33
+not: 56
+limited: 2
+to: 289
+incomplete: 1
+inaccurate
+or: 1
+corrupt: 1
+data: 1
+transcription: 1
+errors: 1
+copyright: 15
+or: 89
+other
+intellectual: 1
+property: 1
+infringement: 1
+defective: 3
+or: 89
+damaged: 1
+disk: 1
+or
+other: 1
+medium: 4
+computer: 2
+virus: 1
+or: 89
+computer: 2
+codes: 1
+that: 89
+damage: 1
+or
+cannot: 1
+be: 44
+read: 7
+by: 45
+your: 22
+equipment
+
+1F2: 1
+LIMITED: 2
+WARRANTY: 2
+DISCLAIMER: 1
+OF: 12
+DAMAGES: 2
+: 847
+Except: 2
+for: 58
+the: 653
+“Right
+of: 1
+Replacement: 1
+or: 89
+Refund”: 1
+described: 1
+in: 195
+paragraph: 9
+1F3: 4
+the: 653
+Project
+Gutenberg: 3
+Literary: 9
+Archive: 10
+Foundation: 17
+the: 653
+owner: 3
+of: 268
+the: 653
+Project
+Gutenberg™: 8
+trademark: 8
+and: 337
+any: 41
+other: 26
+party: 5
+distributing: 6
+Project
+Gutenberg™: 8
+electronic: 20
+work: 44
+under: 12
+this: 69
+agreement: 13
+disclaim: 1
+all
+liability: 1
+to: 289
+you: 128
+for: 58
+damages: 1
+costs: 2
+and: 337
+expenses: 1
+including: 5
+legal
+fees: 1
+YOU: 6
+AGREE: 2
+THAT: 2
+YOU: 6
+HAVE: 1
+NO: 1
+REMEDIES: 1
+FOR: 3
+NEGLIGENCE: 1
+STRICT
+LIABILITY: 1
+BREACH: 2
+OF: 12
+WARRANTY: 2
+OR: 5
+BREACH: 2
+OF: 12
+CONTRACT: 1
+EXCEPT: 1
+THOSE
+PROVIDED: 1
+IN: 6
+PARAGRAPH: 1
+1F3: 4
+YOU: 6
+AGREE: 2
+THAT: 2
+THE: 8
+FOUNDATION: 1
+THE
+TRADEMARK: 1
+OWNER: 1
+AND: 4
+ANY: 3
+DISTRIBUTOR: 1
+UNDER: 1
+THIS: 3
+AGREEMENT: 1
+WILL: 1
+NOT: 1
+BE
+LIABLE: 1
+TO: 2
+YOU: 6
+FOR: 3
+ACTUAL: 1
+DIRECT: 1
+INDIRECT: 1
+CONSEQUENTIAL: 1
+PUNITIVE: 1
+OR
+INCIDENTAL: 1
+DAMAGES: 2
+EVEN: 1
+IF: 1
+YOU: 6
+GIVE: 1
+NOTICE: 1
+OF: 12
+THE: 8
+POSSIBILITY: 1
+OF: 12
+SUCH
+DAMAGE
+
+1F3: 1
+LIMITED: 2
+RIGHT: 1
+OF: 12
+REPLACEMENT: 1
+OR: 5
+REFUND: 1
+: 847
+If: 17
+you: 128
+discover: 1
+a
+defect: 1
+in: 195
+this: 69
+electronic: 20
+work: 44
+within: 5
+90: 2
+days: 4
+of: 268
+receiving: 1
+it: 139
+you: 128
+can
+receive: 1
+refund: 8
+of: 268
+the: 653
+money: 3
+if: 27
+any: 41
+you: 128
+paid: 5
+for: 58
+it: 139
+by: 45
+sending: 1
+a
+written: 1
+explanation: 2
+to: 289
+the: 653
+person: 3
+you: 128
+received: 4
+the: 653
+work: 44
+from: 25
+If: 17
+you
+received: 1
+the: 653
+work: 44
+on: 66
+physical: 2
+medium: 4
+you: 128
+must: 21
+return: 3
+the: 653
+medium
+with: 1
+your: 22
+written: 3
+explanation: 2
+The: 38
+person: 3
+or: 89
+entity: 3
+that: 89
+provided: 2
+you
+with: 1
+the: 653
+defective: 3
+work: 44
+may: 16
+elect: 1
+to: 289
+provide: 7
+replacement: 3
+copy: 12
+in
+lieu: 1
+of: 268
+refund: 8
+If: 17
+you: 128
+received: 4
+the: 653
+work: 44
+electronically: 2
+the: 653
+person
+or: 2
+entity: 3
+providing: 2
+it: 139
+to: 289
+you: 128
+may: 16
+choose: 1
+to: 289
+give: 6
+you: 128
+second
+opportunity: 1
+to: 289
+receive: 1
+the: 653
+work: 44
+electronically: 2
+in: 195
+lieu: 1
+of: 268
+refund: 8
+If
+the: 1
+second: 2
+copy: 12
+is: 54
+also: 2
+defective: 3
+you: 128
+may: 16
+demand: 1
+refund: 8
+in: 195
+writing
+without: 1
+further: 1
+opportunities: 1
+to: 289
+fix: 1
+the: 653
+problem
+
+1F4: 1
+Except: 2
+for: 58
+the: 653
+limited: 2
+right: 9
+of: 268
+replacement: 3
+or: 89
+refund: 8
+set: 14
+forth
+in: 1
+paragraph: 9
+1F3: 4
+this: 69
+work: 44
+is: 54
+provided: 2
+to: 289
+you: 128
+‘ASIS’: 1
+WITH: 1
+NO
+OTHER: 1
+WARRANTIES: 2
+OF: 12
+ANY: 3
+KIND: 1
+EXPRESS: 1
+OR: 5
+IMPLIED: 1
+INCLUDING: 1
+BUT: 1
+NOT
+LIMITED: 1
+TO: 2
+WARRANTIES: 2
+OF: 12
+MERCHANTABILITY: 1
+OR: 5
+FITNESS: 1
+FOR: 3
+ANY: 3
+PURPOSE
+
+1F5: 1
+Some: 2
+states: 4
+do: 38
+not: 56
+allow: 1
+disclaimers: 1
+of: 268
+certain: 4
+implied
+warranties: 1
+or: 89
+the: 653
+exclusion: 1
+or: 89
+limitation: 2
+of: 268
+certain: 4
+types: 1
+of
+damages: 1
+If: 17
+any: 41
+disclaimer: 2
+or: 89
+limitation: 2
+set: 14
+forth: 6
+in: 195
+this: 69
+agreement
+violates: 1
+the: 653
+law: 7
+of: 268
+the: 653
+state: 4
+applicable: 3
+to: 289
+this: 69
+agreement: 13
+the
+agreement: 1
+shall: 5
+be: 44
+interpreted: 1
+to: 289
+make: 8
+the: 653
+maximum: 1
+disclaimer: 2
+or
+limitation: 1
+permitted: 2
+by: 45
+the: 653
+applicable: 3
+state: 4
+law: 7
+The: 38
+invalidity: 1
+or
+unenforceability: 1
+of: 268
+any: 41
+provision: 1
+of: 268
+this: 69
+agreement: 13
+shall: 5
+not: 56
+void: 1
+the
+remaining: 1
+provisions
+
+1F6: 1
+INDEMNITY: 1
+: 847
+You: 14
+agree: 6
+to: 289
+indemnify: 1
+and: 337
+hold: 2
+the: 653
+Foundation: 17
+the
+trademark: 1
+owner: 3
+any: 41
+agent: 1
+or: 89
+employee: 1
+of: 268
+the: 653
+Foundation: 17
+anyone
+providing: 1
+copies: 6
+of: 268
+Project: 60
+Gutenberg™: 34
+electronic: 20
+works: 20
+in
+accordance: 1
+with: 99
+this: 69
+agreement: 13
+and: 337
+any: 41
+volunteers: 4
+associated: 7
+with: 99
+the
+production: 1
+promotion: 1
+and: 337
+distribution: 4
+of: 268
+Project: 60
+Gutenberg™
+electronic: 5
+works: 20
+harmless: 1
+from: 25
+all: 62
+liability: 1
+costs: 2
+and: 337
+expenses
+including: 1
+legal: 1
+fees: 3
+that: 89
+arise: 1
+directly: 2
+or: 89
+indirectly: 1
+from: 25
+any: 41
+of
+the: 5
+following: 3
+which: 25
+you: 128
+do: 38
+or: 89
+cause: 3
+to: 289
+occur: 1
+distribution: 4
+of: 268
+this
+or: 1
+any: 41
+Project: 60
+Gutenberg™: 34
+work: 44
+alteration: 1
+modification: 1
+or
+additions: 1
+or: 89
+deletions: 1
+to: 289
+any: 41
+Project: 60
+Gutenberg™: 34
+work: 44
+and: 337
+any
+Defect: 1
+you: 128
+cause
+
+Section: 1
+Information: 4
+about: 35
+the: 653
+Mission: 1
+of: 268
+Project: 60
+Gutenberg™
+
+Project: 1
+Gutenberg™: 34
+is: 54
+synonymous: 1
+with: 99
+the: 653
+free: 4
+distribution: 4
+of
+electronic: 1
+works: 20
+in: 195
+formats: 1
+readable: 1
+by: 45
+the: 653
+widest: 1
+variety: 1
+of
+computers: 1
+including: 5
+obsolete: 1
+old: 2
+middleaged: 1
+and: 337
+new: 3
+computers: 1
+It
+exists: 1
+because: 4
+of: 268
+the: 653
+efforts: 3
+of: 268
+hundreds: 1
+of: 268
+volunteers: 4
+and: 337
+donations
+from: 1
+people: 7
+in: 195
+all: 62
+walks: 1
+of: 268
+life
+
+Volunteers: 1
+and: 337
+financial: 1
+support: 3
+to: 289
+provide: 7
+volunteers: 4
+with: 99
+the
+assistance: 1
+they: 27
+need: 1
+are: 30
+critical: 1
+to: 289
+reaching: 2
+Project: 60
+Gutenberg™’s
+goals: 1
+and: 337
+ensuring: 1
+that: 89
+the: 653
+Project: 60
+Gutenberg™: 34
+collection: 3
+will
+remain: 1
+freely: 2
+available: 2
+for: 58
+generations: 1
+to: 289
+come: 7
+In: 4
+2001: 1
+the: 653
+Project
+Gutenberg: 3
+Literary: 9
+Archive: 10
+Foundation: 17
+was: 143
+created: 2
+to: 289
+provide: 7
+secure
+and: 1
+permanent: 1
+future: 2
+for: 58
+Project: 60
+Gutenberg™: 34
+and: 337
+future
+generations: 1
+To: 2
+learn: 1
+more: 17
+about: 35
+the: 653
+Project: 60
+Gutenberg: 17
+Literary
+Archive: 3
+Foundation: 17
+and: 337
+how: 12
+your: 22
+efforts: 3
+and: 337
+donations: 10
+can: 17
+help: 5
+see
+Sections: 1
+and: 337
+and: 337
+the: 653
+Foundation: 17
+information: 3
+page: 2
+at: 77
+wwwgutenbergorg
+
+Section: 1
+Information: 4
+about: 35
+the: 653
+Project: 60
+Gutenberg: 17
+Literary: 9
+Archive: 10
+Foundation
+
+The: 1
+Project: 60
+Gutenberg: 17
+Literary: 9
+Archive: 10
+Foundation: 17
+is: 54
+nonprofit
+501c3: 1
+educational: 1
+corporation: 1
+organized: 1
+under: 12
+the: 653
+laws: 8
+of: 268
+the
+state: 1
+of: 268
+Mississippi: 1
+and: 337
+granted: 1
+tax: 6
+exempt: 1
+status: 3
+by: 45
+the: 653
+Internal
+Revenue: 1
+Service: 1
+The: 38
+Foundation’s: 3
+EIN: 1
+or: 89
+federal: 2
+tax: 6
+identification
+number: 1
+is: 54
+646221541: 1
+Contributions: 1
+to: 289
+the: 653
+Project: 60
+Gutenberg: 17
+Literary
+Archive: 3
+Foundation: 17
+are: 30
+tax: 6
+deductible: 1
+to: 289
+the: 653
+full: 13
+extent: 1
+permitted: 2
+by
+US: 1
+federal: 2
+laws: 8
+and: 337
+your: 22
+state’s: 1
+laws
+
+The: 1
+Foundation’s: 3
+business: 3
+office: 1
+is: 54
+located: 6
+at: 77
+809: 1
+North: 1
+1500: 1
+West
+Salt: 1
+Lake: 1
+City: 1
+UT: 1
+84116: 1
+801: 1
+5961887: 1
+Email: 1
+contact: 2
+links: 3
+and: 337
+up
+to: 1
+date: 3
+contact: 2
+information: 3
+can: 17
+be: 44
+found: 19
+at: 77
+the: 653
+Foundation’s: 3
+website
+and: 1
+official: 2
+page: 2
+at: 77
+wwwgutenbergorgcontact
+
+Section: 1
+Information: 4
+about: 35
+Donations: 2
+to: 289
+the: 653
+Project: 60
+Gutenberg
+Literary: 1
+Archive: 10
+Foundation
+
+Project: 1
+Gutenberg™: 34
+depends: 1
+upon: 15
+and: 337
+cannot: 4
+survive: 1
+without: 12
+widespread
+public: 1
+support: 3
+and: 337
+donations: 10
+to: 289
+carry: 1
+out: 50
+its: 27
+mission: 3
+of
+increasing: 1
+the: 653
+number: 2
+of: 268
+public: 2
+domain: 2
+and: 337
+licensed: 1
+works: 20
+that: 89
+can: 17
+be
+freely: 2
+distributed: 2
+in: 195
+machinereadable: 1
+form: 4
+accessible: 1
+by: 45
+the: 653
+widest
+array: 1
+of: 268
+equipment: 2
+including: 5
+outdated: 1
+equipment: 2
+Many: 1
+small: 9
+donations
+1: 1
+to: 289
+5000: 1
+are: 30
+particularly: 1
+important: 3
+to: 289
+maintaining: 1
+tax: 6
+exempt
+status: 1
+with: 99
+the: 653
+IRS
+
+The: 1
+Foundation: 17
+is: 54
+committed: 1
+to: 289
+complying: 3
+with: 99
+the: 653
+laws: 8
+regulating
+charities: 1
+and: 337
+charitable: 1
+donations: 10
+in: 195
+all: 62
+50: 1
+states: 4
+of: 268
+the: 653
+United
+States: 3
+Compliance: 1
+requirements: 4
+are: 30
+not: 56
+uniform: 1
+and: 337
+it: 139
+takes: 1
+a
+considerable: 1
+effort: 1
+much: 11
+paperwork: 1
+and: 337
+many: 4
+fees: 3
+to: 289
+meet: 3
+and: 337
+keep: 3
+up
+with: 1
+these: 7
+requirements: 4
+We: 2
+do: 38
+not: 56
+solicit: 2
+donations: 10
+in: 195
+locations
+where: 1
+we: 10
+have: 20
+not: 56
+received: 4
+written: 3
+confirmation: 1
+of: 268
+compliance: 4
+To: 2
+SEND
+DONATIONS: 1
+or: 89
+determine: 1
+the: 653
+status: 3
+of: 268
+compliance: 4
+for: 58
+any: 41
+particular: 3
+state
+visit: 1
+wwwgutenbergorgdonate
+
+While: 1
+we: 10
+cannot: 4
+and: 337
+do: 38
+not: 56
+solicit: 2
+contributions: 1
+from: 25
+states: 4
+where: 5
+we
+have: 1
+not: 56
+met: 3
+the: 653
+solicitation: 1
+requirements: 4
+we: 10
+know: 17
+of: 268
+no: 28
+prohibition
+against: 1
+accepting: 1
+unsolicited: 1
+donations: 10
+from: 25
+donors: 1
+in: 195
+such: 16
+states: 4
+who
+approach: 1
+us: 4
+with: 99
+offers: 1
+to: 289
+donate
+
+International: 1
+donations: 10
+are: 30
+gratefully: 1
+accepted: 2
+but: 33
+we: 10
+cannot: 4
+make
+any: 1
+statements: 1
+concerning: 2
+tax: 6
+treatment: 1
+of: 268
+donations: 10
+received: 4
+from
+outside: 1
+the: 653
+United: 11
+States: 9
+US: 6
+laws: 8
+alone: 1
+swamp: 1
+our: 9
+small: 9
+staff
+
+Please: 1
+check: 3
+the: 653
+Project: 60
+Gutenberg: 17
+web: 1
+pages: 1
+for: 58
+current: 1
+donation
+methods: 1
+and: 337
+addresses: 1
+Donations: 2
+are: 30
+accepted: 2
+in: 195
+number: 2
+of: 268
+other
+ways: 1
+including: 5
+checks: 1
+online: 2
+payments: 3
+and: 337
+credit: 1
+card: 1
+donations: 10
+To
+donate: 1
+please: 9
+visit: 1
+wwwgutenbergorgdonate
+
+Section: 1
+General: 3
+Information: 4
+About: 1
+Project: 60
+Gutenberg™: 34
+electronic: 20
+works
+
+Professor: 1
+Michael: 1
+Hart: 1
+was: 143
+the: 653
+originator: 1
+of: 268
+the: 653
+Project
+Gutenberg™: 8
+concept: 1
+of: 268
+library: 1
+of: 268
+electronic: 20
+works: 20
+that: 89
+could: 24
+be
+freely: 2
+shared: 1
+with: 99
+anyone: 5
+For: 4
+forty: 1
+years: 1
+he: 19
+produced: 1
+and
+distributed: 1
+Project: 60
+Gutenberg™: 34
+eBooks: 6
+with: 99
+only: 14
+loose: 1
+network: 1
+of
+volunteer: 1
+support
+
+Project: 1
+Gutenberg™: 34
+eBooks: 6
+are: 30
+often: 2
+created: 2
+from: 25
+several: 3
+printed
+editions: 1
+all: 62
+of: 268
+which: 25
+are: 30
+confirmed: 1
+as: 81
+not: 56
+protected: 4
+by: 45
+copyright: 15
+in
+the: 5
+US: 6
+unless: 1
+copyright: 15
+notice: 5
+is: 54
+included: 3
+Thus: 1
+we: 10
+do: 38
+not
+necessarily: 1
+keep: 3
+eBooks: 6
+in: 195
+compliance: 4
+with: 99
+any: 41
+particular: 3
+paper
+edition
+
+Most: 1
+people: 7
+start: 1
+at: 77
+our: 9
+website: 2
+which: 25
+has: 4
+the: 653
+main: 1
+PG: 1
+search
+facility: 1
+wwwgutenbergorg
+
+This: 1
+website: 2
+includes: 1
+information: 3
+about: 35
+Project: 60
+Gutenberg™
+including: 1
+how: 12
+to: 289
+make: 8
+donations: 10
+to: 289
+the: 653
+Project: 60
+Gutenberg: 17
+Literary
+Archive: 3
+Foundation: 17
+how: 12
+to: 289
+help: 5
+produce: 1
+our: 9
+new: 3
+eBooks: 6
+and: 337
+how: 12
+to
+subscribe: 1
+to: 289
+our: 9
+email: 2
+newsletter: 1
+to: 289
+hear: 5
+about: 35
+new: 3
+eBooks
+
+
+: 1
